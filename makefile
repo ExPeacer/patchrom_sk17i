@@ -28,9 +28,9 @@ local-remove-apps   := AdobeFlashPlayer Conversations datatrafficswitch DigitalC
 	TimescapeWidget trackid TtsService usersupport VisualizationWallpapers WallpaperPicker \
 	WeatherWidget widgetdigitalclock widgetfavouritepeople widgetonoff WikipediaPlugin wisepilot \
 	YouTube YouTubeKaraokePlugin YouTubePlugin facebook SemcTelephonyProvider SemcContactsProvider \
-	LocalContacts SimContacts Phonebook SemcMusic SemcCalendar SemcGallery3D UpdateCenter \
+	LocalContacts SimContacts Phonebook SemcMusic SemcCalendar UpdateCenter \
 	SEMCSetupWizard PhaseBeam OmaDatasyncService Home Galaxy4 NoiseField SystemUI InfiniteView \
-	Gallery2 SemcSettings OemCryptoReceiver Videos textinput-tng chinesetextinput Street Gmail \
+	Gallery2 SemcSettings OemCryptoReceiver Videos chinesetextinput Street Gmail \
 	antradioservice AppEnabler GoogleFeedback widgettimer  widgetanalogclock adobereader \
 	antstatenotifer PMSserviceTrigger MarketUpdater OneTimeInitializer neoreader SetupWizard \
 	GoogleQuickSearchBox VoiceSearch widgetworldclock  widgetcalendar MediaUploader  \
