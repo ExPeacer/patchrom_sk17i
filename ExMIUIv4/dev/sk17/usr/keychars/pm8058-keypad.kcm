@@ -1,0 +1,506 @@
+# Copyright (C) 2010 The Android Open Source Project
+# Copyright (C) 2011 Sony Ericsson Mobile Communications AB.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+# NOTE: This file has been modified by Sony Ericsson Mobile Communications AB.
+# Modifications are licensed under the License.
+
+type ALPHA
+
+key A {
+	label: 'A'
+	number: '\t'
+	base: 'a'
+	shift, capslock: 'A'
+	alt: '\t'
+	shift+alt, capslock+alt: none
+}
+
+key B {
+	label: 'B'
+	number: '$'
+	base: 'b'
+	shift, capslock: 'B'
+	alt: '$'
+	shift+alt, capslock+alt: none
+}
+
+key C {
+	label: 'C'
+	number: '_'
+	base: 'c'
+	shift, capslock: 'C'
+	alt: '_'
+	shift+alt, capslock+alt: none
+}
+
+key D {
+	label: 'D'
+	number: '='
+	base: 'd'
+	shift, capslock: 'D'
+	alt: '='
+	shift+alt, capslock+alt: none
+}
+
+key E {
+	label: 'E'
+	number: '3'
+	base: 'e'
+	shift, capslock: 'E'
+	alt: '3'
+	shift+alt, capslock+alt: none
+}
+
+key F {
+	label: 'F'
+	number: '-'
+	base: 'f'
+	shift, capslock: 'F'
+	alt: '-'
+	shift+alt, capslock+alt: none
+}
+
+key G {
+	label: 'G'
+	number: '+'
+	base: 'g'
+	shift, capslock: 'G'
+	alt: '+'
+	shift+alt, capslock+alt: none
+}
+
+key H {
+	label: 'H'
+	number: '*'
+	base: 'h'
+	shift, capslock: 'H'
+	alt: '*'
+	shift+alt, capslock+alt: none
+}
+
+key I {
+	label: 'I'
+	number: '8'
+	base: 'i'
+	shift, capslock: 'I'
+	alt: '8'
+	shift+alt, capslock+alt: none
+}
+
+key J {
+	label: 'J'
+	number: '#'
+	base: 'j'
+	shift, capslock: 'J'
+	alt: '#'
+	shift+alt, capslock+alt: none
+}
+
+key K {
+	label: 'K'
+	number: '('
+	base: 'k'
+	shift, capslock: 'K'
+	alt: '('
+	shift+alt, capslock+alt: none
+}
+
+key L {
+	label: 'L'
+	number: ')'
+	base: 'l'
+	shift, capslock: 'L'
+	alt: ')'
+	shift+alt, capslock+alt: none
+}
+
+key M {
+	label: 'M'
+	number: '\u20ac'
+	base: 'm'
+	shift, capslock: 'M'
+	alt: '\u20ac'
+	shift+alt, capslock+alt: none
+}
+
+key N {
+	label: 'N'
+	number: '\u00a3'
+	base: 'n'
+	shift, capslock: 'N'
+	alt: '\u00a3'
+	shift+alt, capslock+alt: none
+}
+
+key O {
+	label: 'O'
+	number: '9'
+	base: 'o'
+	shift, capslock: 'O'
+	alt: '9'
+	shift+alt, capslock+alt: none
+}
+
+key P {
+	label: 'P'
+	number: '0'
+	base: 'p'
+	shift, capslock: 'P'
+	alt: '0'
+	shift+alt, capslock+alt: none
+}
+
+key Q {
+	label: 'Q'
+	number: '1'
+	base: 'q'
+	shift, capslock: 'Q'
+	alt: '1'
+	shift+alt, capslock+alt: none
+}
+
+key R {
+	label: 'R'
+	number: '4'
+	base: 'r'
+	shift, capslock: 'R'
+	alt: '4'
+	shift+alt, capslock+alt: none
+}
+
+key S {
+	label: 'S'
+	number: none
+	base: 's'
+	shift, capslock: 'S'
+	alt: none
+	shift+alt, capslock+alt: none
+}
+
+key T {
+	label: 'T'
+	number: '5'
+	base: 't'
+	shift, capslock: 'T'
+	alt: '5'
+	shift+alt, capslock+alt: none
+}
+
+key U {
+	label: 'U'
+	number: '7'
+	base: 'u'
+	shift, capslock: 'U'
+	alt: '7'
+	shift+alt, capslock+alt: none
+}
+
+key V {
+	label: 'V'
+	number: '/'
+	base: 'v'
+	shift, capslock: 'V'
+	alt: '/'
+	shift+alt, capslock+alt: none
+}
+
+key W {
+	label: 'W'
+	number: '2'
+	base: 'w'
+	shift, capslock: 'W'
+	alt: '2'
+	shift+alt, capslock+alt: none
+}
+
+key X {
+	label: 'X'
+	number: '%'
+	base: 'x'
+	shift, capslock: 'X'
+	alt: '%'
+	shift+alt, capslock+alt: none
+}
+
+key Y {
+	label: 'Y'
+	number: '6'
+	base: 'y'
+	shift, capslock: 'Y'
+	alt: '6'
+	shift+alt, capslock+alt: none
+}
+
+key Z {
+	label: 'Z'
+	number: none
+	base: 'z'
+	shift, capslock: 'Z'
+	alt: none
+	shift+alt, capslock+alt: none
+}
+
+key COMMA {
+	label: ','
+	number: ';'
+	base: ','
+	shift: ','
+	alt: ';'
+	shift+alt: none
+}
+
+key PERIOD {
+	label: '.'
+	number: ':'
+	base: '.'
+	shift: '.'
+	alt: ':'
+	shift+alt: none
+}
+
+key SPACE {
+	label: ' '
+	number: ' '
+	base: ' '
+	shift: ' '
+	alt: ' '
+	shift+alt: ' '
+}
+
+key ENTER {
+	label: '\n'
+	number: '\n'
+	base: '\n'
+	shift: '\n'
+	alt: '\n'
+	shift+alt: '\n'
+}
+
+key AT {
+	label: '@'
+	number: '&'
+	base: '@'
+	shift: '@'
+	alt: '&'
+	shift+alt: none
+}
+
+key GRAVE {
+	label: '?'
+	number: '!'
+	base: '?'
+	shift: '?'
+	alt: '!'
+	shift+alt: none
+}
+
+key APOSTROPHE {
+	label: '\''
+	number: '\"'
+	base: '\''
+	shift: '\''
+	alt: '\"'
+	shift+alt: none
+}
+
+key TAB {
+	label: '\t'
+	number: '\t'
+	base: '\t'
+	shift: '\t'
+	alt: '\t'
+	shift+alt: '\t'
+}
+
+key 0 {
+	label: '0'
+	number: '0'
+	base: '0'
+	shift: ')'
+	alt: ')'
+	shift+alt: ')'
+}
+
+key 1 {
+	label: '1'
+	number: '1'
+	base: '1'
+	shift: '!'
+	alt: '!'
+	shift+alt: '!'
+}
+
+key 2 {
+	label: '2'
+	number: '2'
+	base: '2'
+	shift: '@'
+	alt: '@'
+	shift+alt: '@'
+}
+
+key 3 {
+	label: '3'
+	number: '3'
+	base: '3'
+	shift: '#'
+	alt: '#'
+	shift+alt: '#'
+}
+
+key 4 {
+	label: '4'
+	number: '4'
+	base: '4'
+	shift: '$'
+	alt: '$'
+	shift+alt: '$'
+}
+
+key 5 {
+	label: '5'
+	number: '5'
+	base: '5'
+	shift: '%'
+	alt: '%'
+	shift+alt: '%'
+}
+
+key 6 {
+	label: '6'
+	number: '6'
+	base: '6'
+	shift: '^'
+	alt: '^'
+	shift+alt: '^'
+}
+
+key 7 {
+	label: '7'
+	number: '7'
+	base: '7'
+	shift: '&'
+	alt: '&'
+	shift+alt: '&'
+}
+
+key 8 {
+	label: '8'
+	number: '8'
+	base: '8'
+	shift: '*'
+	alt: '*'
+	shift+alt: '*'
+}
+
+key 9 {
+	label: '9'
+	number: '9'
+	base: '9'
+	shift: '('
+	alt: '('
+	shift+alt: '('
+}
+
+key SLASH {
+	label: '/'
+	number: '/'
+	base: '/'
+	shift: '?'
+	alt: '?'
+	shift+alt: '\\'
+}
+
+key MINUS {
+	label: '-'
+	number: '-'
+	base: '-'
+	shift: '_'
+	alt: '-'
+	shift+alt: '_'
+}
+
+key EQUALS {
+	label: '='
+	number: '='
+	base: '='
+	shift: '+'
+	alt: '='
+	shift+alt: '+'
+}
+
+key LEFT_BRACKET {
+	label: '['
+	number: '['
+	base: '['
+	shift: '{'
+	alt: '['
+	shift+alt: '{'
+}
+
+key RIGHT_BRACKET {
+	label: ']'
+	number: ']'
+	base: ']'
+	shift: '}'
+	alt: ']'
+	shift+alt: '}'
+}
+
+key BACKSLASH {
+	label: '\\'
+	number: '\\'
+	base: '\\'
+	shift: '|'
+	alt: '\\'
+	shift+alt: '|'
+}
+
+key SEMICOLON {
+	label: 'A'
+	number: '%'
+	base: ';'
+	shift: 'A'
+	alt: '%'
+	shift+alt: none
+}
+
+key STAR {
+	label: '*'
+	number: '*'
+	base: '*'
+	shift: '*'
+	alt: '*'
+	shift+alt: '*'
+}
+
+key POUND {
+	label: '#'
+	number: '#'
+	base: '#'
+	shift: '#'
+	alt: '#'
+	shift+alt: '#'
+}
+
+key PLUS {
+	label: '+'
+	number: '+'
+	base: '+'
+	shift: '+'
+	alt: '+'
+	shift+alt: '+'
+}
+

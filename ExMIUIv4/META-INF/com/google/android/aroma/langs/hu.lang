@@ -1,0 +1,80 @@
+﻿### LICENSE:
+#
+# Copyright (C) 2011 Ahmad Amarullah ( http://amarullz.com/ )
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+### LANGUAGE STRING RESOURCE FILE
+#
+#   Language  : Hungarian
+#   By        : ExPeacer
+#
+
+#
+#--- COMMON SYSTEM STRING RESOURCE
+#
+text_ok=OK
+text_next=Tovább >
+text_back=< Vissza
+text_yes=Igen
+text_no=Nem
+text_about=Névjegy
+text_calibrating=Kalibrálás
+text_quit=Kilépés
+text_quit_msg=Biztos ki akarsz lépni?
+
+#
+#-- CUSTOM STRING RESOURCE
+#
+common.for=eszközökre
+
+langtest.title=Nyelvteszt
+langtest.multiline=Ez a szöveg a /hu.lang\-ban van
+Use backslash before enter to add new line\
+\
+You can also do <b>Formatting</b> inside the language string resource.\
+\
+Thanks for using AROMA Installer
+
+#-- End of string without any backslash for multiline text
+
+
+themes.title=Téma kiválasztása
+themes.desc=Kérlek válaszd ki a témát, amit a telepítéshez akarsz használni:
+
+welcome.title=Üdvözlet
+welcome.text1=Most telepíteni fogod a
+welcome.text2=Köszönet Kamarushnak és iriijonak a segítségért!
+welcome.version=VERZIÓ
+welcome.codename=KÓDNÉV
+welcome.updated=FRISSÍTÉS
+welcome.next=Nyomj a továbbra a telepítés folytatásához
+
+terms.title=Felhasználási feltételek
+terms.desc=Kérlek olvasd el alul a felhasználási feltételeket.
+terms.check=Elfogadom a felhasználási feltételeket...
+terms.confirm=Kérlek fogadd el a feltételeket...
+
+changelog.title=Javítások
+changelog.desc=AROMA Installer javításai
+
+devselect.title=Eszközválasztás
+bootloader.title=Bootloader beállítás
+
+installnow=Telepítés indítása
+
+install.ready=Készenáll a telepítés
+install.readytobegin=A varázsló készen áll a telepítés indítására
+install.exit=Nyomd meg a Menü gomb -> Kilépés-t a telepítő bezárásához
+install.now=Nyomd meg a <b>Telepítés indítása</b> gombot a telepítés megkezdéséhez
+install.back=If you want to review or change any of your installation settings, press <b>Back</b>

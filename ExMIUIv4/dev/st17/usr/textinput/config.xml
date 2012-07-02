@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1">
+    <setting key="portrait_keyboard">phonepad-keyboard</setting>
+    <setting type="integer" key="vibrator_duration">40</setting>
+</settings>
