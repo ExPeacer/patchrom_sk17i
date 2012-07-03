@@ -75,8 +75,6 @@ local-zip-misc:
 	rm $(ZIP_DIR)/system/bin/bootanimation
 	cp other/bootanimation $(ZIP_DIR)/system/bin/bootanimation
 
-	zip -r out/Settings.apk other/Settings/
-
 local-test:
 	echo "an example action"
 
