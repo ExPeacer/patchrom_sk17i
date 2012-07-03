@@ -66,6 +66,7 @@ local-zip-misc:
 	cp other/apk/* $(ZIP_DIR)/system/app/
 	@echo Replace build.prop
 	cp other/build.prop $(ZIP_DIR)/system/build.prop
+
 	cp other/Lt18iSettings.apk $(ZIP_DIR)/system/app/Lt18iSettings.apk
 	rm $(ZIP_DIR)/system/bin/su
 	cp other/handle_device_name.sh $(ZIP_DIR)/system/bin/
@@ -74,6 +75,8 @@ local-zip-misc:
 	rm $(ZIP_DIR)/system/bin/bootanimation
 	cp other/bootanimation $(ZIP_DIR)/system/bin/bootanimation
 
+	zip -r out/Settings.apk other/Settings/
 
 local-test:
 	echo "an example action"
+
