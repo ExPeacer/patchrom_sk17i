@@ -124,7 +124,7 @@ dalvik.vm.heapstartsize=5m
 dalvik.vm.heapgrowthlimit=48m
 dalvik.vm.heapsize=128m
 ro.sf.lcd_density=160
-ro.usb.pid_suffix=167
+persist.sys.usb.config=mass_storage,adb
 dalvik.vm.dexopt-flags=m=y
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt
