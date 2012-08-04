@@ -12,8 +12,4 @@
     <item type="drawable" name="recents_callout_line">#99ffffff</item>
     <item type="drawable" name="notification_item_background_legacy_color">#ffaaaaaa</item>
     <item type="drawable" name="notification_icon_filter_disabled_mask">#7fffffff</item>
-    <item type="drawable" name="APKTOOL_DUMMY_00c5">false</item>
-    <item type="drawable" name="APKTOOL_DUMMY_00c7">false</item>
-    <item type="drawable" name="APKTOOL_DUMMY_00c9">false</item>
-    <item type="drawable" name="APKTOOL_DUMMY_00cb">false</item>
 </resources>
