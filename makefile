@@ -13,7 +13,7 @@ local-modified-apps := SemcCamera3D CustomizedSettings
 
 local-modified-jars := #HTCExtension
 
-local-miui-modified-apps := MiuiHome Mms Settings Phone MiuiGallery ThemeManager TelephonyProvider MiuiSystemUI AntiSpam Backup Bluetooth Browser Calculator Calendar CalendarProvider ContactsProvider DeskClock DownloadProvider FileExplorer LBESEC_MIUI MiuiCompass MiuiSystemUI Music Notes PackageInstaller SoundRecorder
+local-miui-modified-apps := MiuiHome Mms Settings Phone MiuiGallery ThemeManager MiuiSystemUI
 
 local-miui-removed-apps  := MediaProvider SuperMarket
 
