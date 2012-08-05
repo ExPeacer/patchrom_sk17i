@@ -21,9 +21,9 @@ local-miui-removed-apps  := MediaProvider SuperMarket
 local-remove-apps   := AdobeFlashPlayer Conversations datatrafficswitch DigitalClockWidget \
 	EventStream EventStreamPluginCallLog EventStreamPluginFacebook EventStreamPluginTelephony \
 	EventStreamPluginTwitter FBIAppShare FBMediaDiscovery FBSetupwizard FBCalendarSync \
-	FBMusicLike FBNotificationPublisher GenieWidget JapaneseIME letsgolf_ay livewaremanager \
+	FBMusicLike FBNotificationPublisher GenieWidget letsgolf_ay livewaremanager \
 	MagicSmokeWallpapers MediaWidget MusicWidget officesuite PhotoWidget playnowclientarvato \
-	POBoxSknPink POBoxSknWood PostViewer retaildemo SemcDeskClock SemcDlna SEMCFacebookProxy \
+	PostViewer retaildemo SemcDeskClock SemcDlna SEMCFacebookProxy \
 	SemcVideoEdit StatusSwitch storefront SyncWizard TimescapeRssPlugin TimescapeSpline \
 	TimescapeWidget trackid TtsService usersupport VisualizationWallpapers WallpaperPicker \
 	WeatherWidget widgetdigitalclock widgetfavouritepeople widgetonoff WikipediaPlugin wisepilot \
