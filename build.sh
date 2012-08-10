@@ -1,3 +1,5 @@
+export PATH=$PATH:/home/user/MiCode/ICS/tools:/home/user/android-sdk-linux/tools
+
 make fullota 
 echo Add ExMIUIv4 stuffs
 unzip -o -q out/fullota.zip -d out/ota/
