@@ -1,0 +1,90 @@
+#!/sbin/sh
+
+var1=$1
+var2=$2
+
+if [ -f "$(dirname $0)/busybox" ] ;then
+bb="$(dirname $0)/busybox"
+install_dir="$(dirname $0)"
+chmod 0755 $bb
+   elif [ -f /system/xbin/busybox ] ;then
+   bb=/system/xbin/busybox
+   install_dir=/system/xbin
+   chmod 0755 $bb
+      elif [ -f /system/bin/busybox ] ;then
+      bb=/system/bin/busybox
+      install_dir=/system/bin
+      chmod 0755 $bb
+fi
+
+if [ -n "$var1" ] && [ -n "$var2" ] ;then
+   if [ "$(echo $var1 | $bb sed -e "s/^.*\(.\)$/\1/")" == "/" ] ;then
+   var1=$(echo $var1 | $bb sed s'/.$//')
+   fi
+   if [ "$(echo $var2 | $bb sed -e "s/^.*\(.\)$/\1/")" == "/" ] ;then
+   var2=$(echo $var2 | $bb sed s'/.$//')
+   fi
+   if [ -f "$var1" ] && [ -d "$var2" ] ;then
+   bb="$var1"
+   install_dir="$var2"
+   chmod 0755 $bb
+      elif [ -d "$var1" ] && [ -f "$var2" ] ;then
+      bb="$var2"
+      install_dir="$var1"
+      chmod 0755 $bb
+   fi
+elif [ -z "$var1" ] && [ -n "$var2" ] || [ -z "$var2" ] && [ -n "$var1" ] ;then
+exit
+fi
+
+if [ "$3" == "rm-old-links" ] ;then
+get_links=$($bb find $install_dir -type l)
+   for del_link in $get_links ;do
+   l_link=$($bb ls -l `echo $del_link`)
+      if $bb [ "`echo $l_link|$bb awk '{print $11}'|$bb grep busybox`" ] ;then
+      $bb rm `echo $l_link|$bb awk '{print $9}'`
+      fi
+   done
+fi
+
+if [ -n "$bb" ] && [ -n "$install_dir" ] ;then
+cd $install_dir
+line_num=`$bb expr $($bb|$bb grep -n "Currently"|$bb cut -d: -f1) + 1`
+tool_list=`$bb|$bb sed -n $line_num',$p'`
+   for tool in $tool_list ;do
+   tool=$(echo $tool|$bb sed 's/,//')
+   $bb ln -s $bb $install_dir/$tool
+   done
+
+   if [ -h "$(dirname $0)/su" ] ;then
+   $bb rm "$(dirname $0)/su"
+   else
+      if [ -h /system/xbin/su ] ;then
+      $bb rm /system/xbin/su
+      fi
+      if [ -h /system/bin/su ] ;then
+      $bb rm /system/bin/su
+      fi
+   fi
+
+
+   if [ -f "$(dirname $0)/busybox" ] && [ "$(dirname $0)" != "/system/xbin" ] && [ "$(dirname $0)" != "/system/bin" ] ;then
+      if [ -f /system/xbin/su ] ;then
+      $bb ln -s /system/xbin/su "$(dirname $0)"
+      exit
+      fi
+      if [ -f /system/bin/su ] ;then
+      $bb ln -s /system/bin/su "$(dirname $0)"
+      exit
+      fi
+   fi
+      if [ -f /system/xbin/su ] ;then
+      $bb ln -s /system/xbin/su /system/bin
+      exit
+      fi
+      if [ -f /system/bin/su ] ;then
+      $bb ln -s /system/bin/su /system/xbin/su
+      exit
+      fi
+   fi
+fi
