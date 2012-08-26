@@ -204,6 +204,7 @@ set_perm(0, 1000, 0755, "/system/xbin/busybox");
 set_perm(0, 0, 0755, "/system/xbin/busybox-installer");
 run_program("/sbin/sh", "/system/xbin/busybox-installer");
 delete("/system/xbin/busybox-installer");
+set_perm_recursive(0, 2000, 0777, 0777, "/system/etc/init.d");
 set_perm(0, 0, 06755, "/system/xbin/invoke-as");
 set_perm(0, 0, 06755, "/system/xbin/su");
 ui_print(" ");
