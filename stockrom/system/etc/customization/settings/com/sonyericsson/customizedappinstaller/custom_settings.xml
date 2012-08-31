@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1001">
+   <groups type="Application">
+      <group>
+         <setting key="app-name" runtime="false">com.whatsapp.apk</setting>
+         <setting key="deletable" runtime="false">true</setting>
+      </group>
+      <group>
+         <setting key="app-name" runtime="false">com.joelapenna.foursquared.apk</setting>
+         <setting key="deletable" runtime="false">true</setting>
+      </group>
+      <group>
+         <setting key="app-name" runtime="false">com.slideme.sam.manager.apk</setting>
+         <setting key="deletable" runtime="false">true</setting>
+      </group>
+   </groups>
+</settings>
