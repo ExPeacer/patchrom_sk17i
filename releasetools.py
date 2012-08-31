@@ -5,7 +5,7 @@ def AddAssertions(info):
     edify = info.script
     for i in xrange(len(edify.script)):
         if ");" in edify.script[i] and ("ro.product.device" in edify.script[i] or "ro.build.product" in edify.script[i]):
-            edify.script[i] = edify.script[i].replace(");", ' || getprop("ro.product.device") == "MT15i" || getprop("ro.build.product") == "MT15i" || getprop("ro.product.device") == "MT11i" || getprop("ro.build.product") == "MT11i" || getprop("ro.product.device") == "ST18i" || getprop("ro.build.product") == "ST18i" || getprop("ro.product.device") == "SK17i" || getprop("ro.build.product") == "SK17i") || getprop("ro.product.device") == "ST15i" || getprop("ro.build.product") == "ST15i") || getprop("ro.product.device") == "ST17i" || getprop("ro.build.product") == "ST17i") || getprop("ro.product.device") == "WT19i" || getprop("ro.build.product") == "WT19i");')
+            edify.script[i] = edify.script[i].replace(");", ' || getprop("ro.product.device") == "MT15i" || getprop("ro.build.product") == "MT15i" || getprop("ro.product.device") == "MT11i" || getprop("ro.build.product") == "MT11i" || getprop("ro.product.device") == "ST18i" || getprop("ro.build.product") == "ST18i");')
             return
 
 def WriteRawImage(info, *args):
