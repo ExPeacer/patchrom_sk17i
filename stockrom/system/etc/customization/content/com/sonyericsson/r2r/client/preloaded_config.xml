@@ -9762,24 +9762,6 @@
       </profile>
     </wap>
   </preloaded-data>
-  <preloaded-data mnc="99" mcc="240" operator-name="S99" service-provider="GTE" service-provider-id="8650">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>gte-internet</apn>
-        <authentication>None</authentication>
-        <ipaddress>proxy.gte.org</ipaddress>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <ipaddress>proxy.gte.org</ipaddress>
-        <use-proxy>true</use-proxy>
-        <port-number>3128</port-number>
-      </profile>
-    </wap>
-  </preloaded-data>
   <preloaded-data mnc="06" mcc="734" operator-name="Movilnet" service-provider="Movilnet" service-provider-id="4454">
     <internet>
       <account>
@@ -10429,6 +10411,94 @@
       <account>
         <name>SEMC GPRS</name>
         <apn>net.hotm</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="10" mcc="208" operator-name="F SFR" service-provider="Darty" service-provider-id="8750">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>wap68</apn>
+        <ipaddress>192.168.21.11</ipaddress>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <ipaddress>192.168.21.11</ipaddress>
+        <use-proxy>true</use-proxy>
+        <port-number>8080</port-number>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="08" mcc="450" operator-name="KR KTF" service-provider="CJ HelloVision" service-provider-id="8746">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>alwayson.ktfwing.com</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="19" mcc="214" operator-name="Simyo ES" service-provider="Simyo" service-provider-id="8753">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>gprs-service.com</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="21" mcc="214" operator-name="Jazztel ES" service-provider="Jazztel" service-provider-id="8752">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>jazzinternet</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="99" mcc="240" operator-name="S99" service-provider="GTE" service-provider-id="8650">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>gte-internet</apn>
+        <authentication>None</authentication>
+        <ipaddress>proxy.gte.org</ipaddress>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <ipaddress>proxy.gte.org</ipaddress>
+        <use-proxy>true</use-proxy>
+        <port-number>3128</port-number>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="11" mcc="450" operator-name="KCT KR" service-provider="KCT" service-provider-id="8763">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>web.sktelecom.com</apn>
         <authentication>None</authentication>
       </account>
     </internet>
