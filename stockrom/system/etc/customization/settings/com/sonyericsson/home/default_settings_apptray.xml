@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1">
+    <groups type="app-tray">
+        <group>
+            <setting key="sorting-order">free</setting>
+
+            <groups type="activities">
+                <group>
+                    <setting key="name">.LaunchActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                </group>
+                <group>
+                    <setting key="name">.DialerEntryActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.socialphonebook</setting>
+                </group>
+                <group>
+                    <setting key="name">.ui.ConversationListActivity</setting>
+                    <setting key="package-name">com.sonyericsson.conversations</setting>
+                </group>
+                <group>
+                    <setting key="name">.BrowserActivity</setting>
+                    <setting key="package-name">com.android.browser</setting>
+                </group>
+                <group>
+                    <setting key="name">.SplineActivity</setting>
+                    <setting key="package-name">com.sonyericsson.timescape.ui</setting>
+                </group>
+                <group>
+                    <setting key="name">.Settings</setting>
+                    <setting key="package-name">com.android.settings</setting>
+                </group>
+                <group>
+                    <setting key="name">.customscreens.WelcomeScreen</setting>
+                    <setting key="package-name">com.sonyericsson.setupwizard</setting>
+                </group>
+                <group>
+                    <setting key="name">.PlayerActivity</setting>
+                    <setting key="package-name">com.sonyericsson.music</setting>
+                </group>
+                <group>
+                    <setting key="name">.Gallery</setting>
+                    <setting key="package-name">com.sonyericsson.gallery</setting>
+                </group>
+                <group>
+                    <setting key="name">.AlarmClock</setting>
+                    <setting key="package-name">com.android.deskclock</setting>
+                </group>
+                <group>
+                    <setting key="name">.CameraActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.camera</setting>
+                </group>
+                <group>
+                    <setting key="name">.Camera</setting>
+                    <setting key="package-name">com.android.camera</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.Welcome</setting>
+                    <setting key="package-name">com.android.email</setting>
+                </group>
+                <group>
+                    <setting key="name">.AssetBrowserActivity</setting>
+                    <setting key="package-name">com.android.vending</setting>
+                </group>
+                <group>
+                    <setting key="name">.LoginActivity</setting>
+                    <setting key="package-name">com.facebook.katana</setting>
+                </group>
+                <group>
+                    <setting key="name">.LaunchActivity</setting>
+                    <setting key="package-name">com.android.calendar</setting>
+                </group>
+                <group>
+                    <setting key="name">.startup.StartupActivity</setting>
+                    <setting key="package-name">com.sony.snei.mu.phone</setting>
+                </group>
+                <group>
+                    <setting key="name">.storeclient.activity.StoreClientHomeActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.snp</setting>
+                </group>
+                <group>
+                    <setting key="name">.app.StoreFrontActivity</setting>
+                    <setting key="package-name">de.arvatomobile.sonyericsson.playnow.android</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.maps.MapsActivity</setting>
+                    <setting key="package-name">com.google.android.apps.maps</setting>
+                </group>
+                <group>
+                    <setting key="name">.ConversationListActivityGmail</setting>
+                    <setting key="package-name">com.google.android.gm</setting>
+                </group>
+                <group>
+                    <setting key="name">.SigningInActivity</setting>
+                    <setting key="package-name">com.google.android.talk</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.maps.driveabout.app.DestinationActivity</setting>
+                    <setting key="package-name">com.google.android.apps.maps</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.maps.PlacesActivity</setting>
+                    <setting key="package-name">com.google.android.apps.maps</setting>
+                </group>
+                <group>
+                    <setting key="name">com.google.android.maps.LatitudeActivity</setting>
+                    <setting key="package-name">com.google.android.apps.maps</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.MainActivity</setting>
+                    <setting key="package-name">com.sonyericsson.android.support</setting>
+                </group>
+                <group>
+                    <setting key="name">.AccountLauncher</setting>
+                    <setting key="package-name">com.sonyericsson.sync.wizard</setting>
+                </group>
+                <group>
+                    <setting key="name">.Calculator</setting>
+                    <setting key="package-name">com.android.calculator2</setting>
+                </group>
+                <group>
+                    <setting key="name">.activity.WidgetHandlerActivity</setting>
+                    <setting key="package-name">com.sonyericsson.trackid3.client</setting>
+                </group>
+            </groups>
+        </group>
+    </groups>
+</settings>

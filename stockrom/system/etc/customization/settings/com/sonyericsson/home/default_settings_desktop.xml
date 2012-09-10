@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1">
+    <!--  Desktop for Small Home -->
+    <groups type="desktop">
+        <group>
+            <groups type="widgets">
+                 <group>
+                    <setting key="name">.FavouritesAndCallLog</setting>
+                    <setting key="package-name">com.sonyericsson.widget.favourites</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">3</setting>
+                    <setting key="pane">0</setting>
+                </group>
+
+                <group>
+                    <setting key="name">.WifiWidget</setting>
+                    <setting key="package-name">com.sonyericsson.widget.togglewidgets</setting>
+                    <setting key="width">1</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+
+                <group>
+                    <setting key="name">.SoundWidget</setting>
+                    <setting key="package-name">com.sonyericsson.widget.togglewidgets</setting>
+                    <setting key="width">1</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">2</setting>
+                    <setting key="pane">1</setting>
+                </group>
+
+                <group>
+                    <setting key="name">.appwidget.SupportAppWidget</setting>
+                    <setting key="package-name">com.sonyericsson.android.support</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">2</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">1</setting>
+                </group>
+
+                <group>
+                    <setting key="name">.SearchWidgetProvider</setting>
+                    <setting key="package-name">com.google.android.googlequicksearchbox</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">1</setting>
+                    <setting key="y">1</setting>
+                    <setting key="pane">2</setting>
+                </group>
+
+                <group>
+                    <setting key="name">.DigitalClockWidgetProvider</setting>
+                    <setting key="package-name">com.sonyericsson.digitalclockwidget</setting>
+                    <setting key="width">2</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">2</setting>
+                </group>
+            </groups>
+
+            <groups type="advanced-widgets">
+                <group>
+                    <setting key="package-name">com.sonyericsson.advancedwidget.music</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">1</setting>
+                    <setting key="y">2</setting>
+                    <setting key="pane">3</setting>
+                </group>
+
+                <group>
+                    <setting key="package-name">com.sonyericsson.advancedwidget.photo</setting>
+                    <setting key="width">4</setting>
+                    <setting key="height">2</setting>
+                    <setting key="x">0</setting>
+                    <setting key="pane">3</setting>
+                </group>
+
+                <group>
+                    <setting key="package-name">com.sonyericsson.advancedwidget.weather</setting>
+                    <setting key="width">2</setting>
+                    <setting key="height">3</setting>
+                    <setting key="x">1</setting>
+                    <setting key="pane">4</setting>
+                </group>
+            </groups>
+
+            <groups type="activities">
+                <group>
+                    <setting key="name">.AssetBrowserActivity</setting>
+                    <setting key="package-name">com.android.vending</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">3</setting>
+                    <setting key="pane">1</setting>
+                </group>
+
+                <group>
+                    <setting key="name">.BrowserActivity</setting>
+                    <setting key="package-name">com.android.browser</setting>
+                    <setting key="x">2</setting>
+                    <setting key="y">3</setting>
+                    <setting key="pane">1</setting>
+                </group>
+            </groups>
+
+        </group>
+    </groups>
+</settings>
