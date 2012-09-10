@@ -9,10 +9,10 @@ ro.build.product=ST15i
 ro.build.description=ST15i-user 4.0.4 4.1.B.0.587 tL1_3w test-keys
 
 ro.product.brand=SEMC
-ro.product.name=SK17i_1254-2284
-ro.product.device=SK17i
+ro.product.name=ST15i_1254-2284
+ro.product.device=ST15i
 ro.build.tags=release-keys
-ro.build.fingerprint=SEMC/SK17i_1254-2284/SK17i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys
+ro.build.fingerprint=SEMC/ST15i_1254-2284/ST15i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys
 
 
       ######################## Customized property values #########################
