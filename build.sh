@@ -1,4 +1,4 @@
-export PATH=$PATH:/home/user/MiCode/ICS/tools:/home/user/android-sdk-linux/tools
+export PATH=$PATH:/home/user/MiCode/tools:/home/user/android-sdk-linux/tools
 
 make fullota 
 echo Add ExMIUIv4 stuffs
