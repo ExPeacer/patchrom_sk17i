@@ -9,16 +9,16 @@ ro.build.product=ST15i
 ro.build.description=ST15i-user 4.0.4 4.1.B.0.587 tL1_3w test-keys
 
 ro.product.brand=SEMC
-ro.product.name=ST15i_1254-2284
+ro.product.name=ST15i_1250-0927
 ro.product.device=ST15i
 ro.build.tags=release-keys
-ro.build.fingerprint=SEMC/ST15i_1254-2284/ST15i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys
+ro.build.fingerprint=SEMC/ST15i_1250-0927/ST15i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys
 
 
       ######################## Customized property values #########################
       
-ro.semc.version.cust=1254-2284
-ro.semc.version.cust_revision=R1I
+ro.semc.version.cust=1250-0927
+ro.semc.version.cust_revision=R4I
 
      #########################################################################
 
@@ -26,7 +26,7 @@ ro.semc.version.cust_revision=R1I
 ro.config.ringtone=MI.ogg
 ro.config.notification_sound=FadeIn.ogg
 ro.config.alarm_alert=GoodMorning.ogg
-ro.semc.content.number=PA3
+ro.semc.content.number=PA6
 ro.config.sms_received_sound=FadeIn.ogg
 ro.config.sms_delivered_sound=MessageComplete.ogg
 
@@ -136,7 +136,7 @@ ro.skia.use_data_fonts=1
 
 ## All of the SHITS!
 
-ro.build.version.incremental=2.9.7
+ro.build.version.incremental=2.9.21
 
 windowsmgr.max_events_per_sec=240
 wifi.supplicant_scan_interval=60
@@ -169,3 +169,4 @@ ro.HOME_APP_ADJ=1
 ro.HIDDEN_APP_MIN_ADJ=8
 ro.CONTENT_PROVIDER_ADJ=9
 ro.EMPTY_APP_ADJ=15
+
