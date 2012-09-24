@@ -5,10 +5,10 @@
         <group>
             <groups type="widgets">
                  <group>
-                    <setting key="name">.FavouritesAndCallLog</setting>
-                    <setting key="package-name">com.sonyericsson.widget.favourites</setting>
+                    <setting key="name">.BusinessCenterReceiver</setting>
+                    <setting key="package-name">com.sonyericsson.androidapp.businesscenter</setting>
                     <setting key="width">4</setting>
-                    <setting key="height">3</setting>
+                    <setting key="height">4</setting>
                     <setting key="pane">0</setting>
                 </group>
 
@@ -56,6 +56,16 @@
                     <setting key="x">1</setting>
                     <setting key="y">2</setting>
                     <setting key="pane">2</setting>
+                </group>
+
+                <group>
+                    <setting key="name">.widget.StoreFrontWidgetProviderSmall</setting>
+                    <setting key="package-name">com.sonyericsson.androidapp.storefront</setting>
+                    <setting key="width">2</setting>
+                    <setting key="height">1</setting>
+                    <setting key="x">1</setting>
+                    <setting key="y">3</setting>
+                    <setting key="pane">3</setting>
                 </group>
             </groups>
 

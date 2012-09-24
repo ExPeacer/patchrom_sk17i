@@ -9,17 +9,21 @@ ro.build.product=SK17i
 ro.build.description=SK17i-user 4.0.4 4.1.B.0.587 tL1_3w test-keys
 
 ro.product.brand=SEMC
-ro.product.name=SK17i_1254-2284
+ro.product.name=SK17i_1250-0927
 ro.product.device=SK17i
 ro.build.tags=release-keys
-ro.build.fingerprint=SEMC/SK17i_1254-2284/SK17i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys
+ro.build.fingerprint=SEMC/SK17i_1250-0927/SK17i:4.0.4/4.1.B.0.587/tL1_3w:user/release-keys
 
 
       ######################## Customized property values #########################
       
-ro.semc.version.cust=1254-2284
-ro.semc.version.cust_revision=R1I
-ro.product.locale.excluded=he_IL iw_IL ar_IL
+ro.semc.version.cust=1250-0927
+ro.semc.version.cust_revision=R4I
+ro.semc.enable.fast_dormancy=true
+ro.semc.ecclist.num=1
+ro.semc.ecclist.type.0=police
+ro.semc.ecclist.number.0=112
+persist.ro.ril.sms_sync_sending=1
 
       #########################################################################
       
@@ -27,7 +31,7 @@ ro.product.locale.excluded=he_IL iw_IL ar_IL
 ro.config.ringtone=sony_ericsson.ogg
 ro.config.notification_sound=notification.ogg
 ro.config.alarm_alert=alarm.ogg
-ro.semc.content.number=PA3
+ro.semc.content.number=PA6
 
 ################# Updating of the SW Version #################
 ro.semc.version.fs_revision=4.1.B.0.587
@@ -36,9 +40,9 @@ ro.build.display.id=4.1.B.0.587
 
 ##### Values from product package metadata #####
 ro.semc.product.model=SK17i
-ro.semc.ms_type_id=AAD-3880097-AV
+ro.semc.ms_type_id=AAD-3880104-BV
 ro.semc.version.fs=WORLD-i
-ro.semc.product.name=Xperia arc S
+ro.semc.product.name=Xperia mini pro
 ro.semc.product.device=SK17
 ro.product.model=SK17i
 
@@ -65,9 +69,6 @@ ro.build.characteristics=default
 # system.prop for mango
 #
 
-# Notify the system that the RIL only signals once
-ro.telephony.call_ring.multiple=false
-
 rild.libpath=/system/lib/libril-qc-1.so
 rild.libargs=-d /dev/smd0
 persist.rild.nitz_plmn=
@@ -84,16 +85,17 @@ DEVICE_PROVISIONED=1
 wifi.interface = wlan0
 ro.semc.wifi.hostapd=1
 
+ro.use_data_netmgrd=true
+# Notify the system that the RIL only signals once
+ro.telephony.call_ring.multiple=false
 
 ro.semc.timescape_keys=Sony_Ericsson_Xperia
 
-ro.semc.sols.product-code=95
-ro.semc.sols.company-code=5
-persist.ro.ril.sms_sync_sending=1
-ro.use_data_netmgrd=true
-
 # Disable strict mode checking
 persist.android.strictmode=0
+
+ro.semc.sols.product-code=85
+ro.semc.sols.company-code=5
 
 # Constant values for Battery test in Service menu
 ro.semc.batt.capacity=1200
@@ -124,7 +126,7 @@ dalvik.vm.heapstartsize=5m
 dalvik.vm.heapgrowthlimit=48m
 dalvik.vm.heapsize=128m
 ro.sf.lcd_density=160
-persist.sys.usb.config=mass_storage,adb
+ro.usb.pid_suffix=166
 dalvik.vm.dexopt-flags=m=y
 net.bt.name=Android
 dalvik.vm.stack-trace-file=/data/anr/traces.txt

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings version="1001">
+   <setting key="delivery-report" runtime="true">false</setting>
+   <setting key="mms-trigger-sms-segments" runtime="false">3</setting>
+   <setting key="character-conversion" runtime="true">true</setting>
+   <setting key="character-conversion-visibility" runtime="false">true</setting>
+</settings>

@@ -280,24 +280,6 @@
       </profile>
     </wap>
   </preloaded-data>
-  <preloaded-data mnc="06" mcc="231" operator-name="Telefonica SK" service-provider="Telefonica O2" service-provider-id="569">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>o2wap</apn>
-        <authentication>None</authentication>
-        <ipaddress>10.97.1.11</ipaddress>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <ipaddress>10.97.1.11</ipaddress>
-        <use-proxy>true</use-proxy>
-        <port-number>8080</port-number>
-      </profile>
-    </wap>
-  </preloaded-data>
   <preloaded-data mnc="07" mcc="655" operator-name="Cell C" service-provider="Virgin" service-provider-id="500">
     <internet>
       <account>
@@ -1665,286 +1647,6 @@
       </profile>
     </wap>
   </preloaded-data>
-  <preloaded-data mnc="10" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="31" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="45" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="49" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="90" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="92" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="93" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="94" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="95" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="96" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="97" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="98" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="16" mcc="404" operator-name="IND Airtel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="56" mcc="405" operator-name="IND Airtel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="40" mcc="404" operator-name="INA AIRTEL" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="51" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="52" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="53" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="54" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="55" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>airtelgprs.com</apn>
-        <authentication>None</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
   <preloaded-data mnc="21" mcc="510" operator-name="IND INDOSAT" service-provider="(do not use) IM3" service-provider-id="150">
     <internet>
       <account>
@@ -2505,20 +2207,6 @@
       <account>
         <name>SEMC GPRS</name>
         <apn>yesinternet</apn>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="03" mcc="505" operator-name="vodafone AU" service-provider="Crazy Johns" service-provider-id="698">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>purtona.net</apn>
-        <authentication>Normal</authentication>
       </account>
     </internet>
     <wap>
@@ -4588,24 +4276,6 @@
       </profile>
     </wap>
   </preloaded-data>
-  <preloaded-data mnc="06" mcc="454" operator-name="SmarTone" service-provider="SMC-Voda" service-provider-id="369">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>SmarTone-Vodafone</apn>
-        <authentication>None</authentication>
-        <ipaddress>010.009.009.009</ipaddress>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <ipaddress>010.009.009.009</ipaddress>
-        <use-proxy>true</use-proxy>
-        <port-number>8080</port-number>
-      </profile>
-    </wap>
-  </preloaded-data>
   <preloaded-data mnc="03" mcc="425" operator-name="IL Pelephone" service-provider="Pelephone IL" service-provider-id="4508">
     <internet>
       <account>
@@ -5498,24 +5168,6 @@
         <ipaddress>062.142.004.197</ipaddress>
         <use-proxy>true</use-proxy>
         <port-number>8080</port-number>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="05" mcc="244" operator-name="FI elisa" service-provider="Elisa" service-provider-id="256">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>wap</apn>
-        <authentication>None</authentication>
-        <ipaddress>213.161.040.040</ipaddress>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <ipaddress>213.161.040.040</ipaddress>
-        <use-proxy>true</use-proxy>
-        <port-number>80</port-number>
       </profile>
     </wap>
   </preloaded-data>
@@ -7002,64 +6654,6 @@
         <ipaddress>148.233.151.240</ipaddress>
         <use-proxy>true</use-proxy>
         <port-number>8080</port-number>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="720" mcc="302" operator-name="Rogers Wireless" service-provider="Rogers" service-provider-id="162">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>goam.com</apn>
-        <username>wapuser1</username>
-        <password>wap</password>
-        <authentication>pap</authentication>
-        <ipaddress>010.128.001.069</ipaddress>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <username>wapuser1</username>
-        <password>wap</password>
-        <ipaddress>010.128.001.069</ipaddress>
-        <use-proxy>true</use-proxy>
-        <port-number>80</port-number>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="370" mcc="302" operator-name="Fido" service-provider="Fido" service-provider-id="163">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>wap.fido.ca</apn>
-        <authentication>None</authentication>
-        <ipaddress>205.151.011.011</ipaddress>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <ipaddress>205.151.011.011</ipaddress>
-        <use-proxy>true</use-proxy>
-        <port-number>80</port-number>
-      </profile>
-    </wap>
-  </preloaded-data>
-  <preloaded-data mnc="720" mcc="302" operator-name="Rogers Wireless" service-provider="Fido" service-provider-id="163">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>wap.fido.ca</apn>
-        <authentication>None</authentication>
-        <ipaddress>205.151.011.011</ipaddress>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <ipaddress>205.151.011.011</ipaddress>
-        <use-proxy>true</use-proxy>
-        <port-number>80</port-number>
       </profile>
     </wap>
   </preloaded-data>
@@ -10020,25 +9614,6 @@
       </profile>
     </wap>
   </preloaded-data>
-  <preloaded-data mnc="30" mcc="234" operator-name="T-Mobile UK" service-provider="T-Mobile" service-provider-id="20">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>general.t-mobile.uk</apn>
-        <username>t-mobile</username>
-        <password>tm</password>
-        <dns>0.0.0.0</dns>
-        <authentication>pap</authentication>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-        <username>t-mobile</username>
-        <password>tm</password>
-      </profile>
-    </wap>
-  </preloaded-data>
   <preloaded-data mnc="10" mcc="655" operator-name="MTN-SA" service-provider="MTN SA" service-provider-id="286">
     <internet>
       <account>
@@ -10437,19 +10012,6 @@
       </profile>
     </wap>
   </preloaded-data>
-  <preloaded-data mnc="08" mcc="450" operator-name="KR KTF" service-provider="CJ HelloVision" service-provider-id="8746">
-    <internet>
-      <account>
-        <name>SEMC GPRS</name>
-        <apn>alwayson.ktfwing.com</apn>
-      </account>
-    </internet>
-    <wap>
-      <profile>
-        <name>SEMC WAP</name>
-      </profile>
-    </wap>
-  </preloaded-data>
   <preloaded-data mnc="19" mcc="214" operator-name="Simyo ES" service-provider="Simyo" service-provider-id="8753">
     <internet>
       <account>
@@ -10476,11 +10038,25 @@
       </profile>
     </wap>
   </preloaded-data>
+  <preloaded-data mnc="11" mcc="450" operator-name="KCT KR" service-provider="KCT" service-provider-id="8763">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>web.sktelecom.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
   <preloaded-data mnc="99" mcc="240" operator-name="S99" service-provider="GTE" service-provider-id="8650">
     <internet>
       <account>
         <name>SEMC GPRS</name>
-        <apn>gte-internet</apn>
+        <apn>gte-services</apn>
         <authentication>None</authentication>
         <ipaddress>proxy.gte.org</ipaddress>
       </account>
@@ -10494,11 +10070,525 @@
       </profile>
     </wap>
   </preloaded-data>
-  <preloaded-data mnc="11" mcc="450" operator-name="KCT KR" service-provider="KCT" service-provider-id="8763">
+  <preloaded-data mnc="06" mcc="454" operator-name="SmarTone" service-provider="SmarTone" service-provider-id="369">
     <internet>
       <account>
         <name>SEMC GPRS</name>
-        <apn>web.sktelecom.com</apn>
+        <apn>SmarTone-Vodafone</apn>
+        <authentication>None</authentication>
+        <ipaddress>010.009.009.009</ipaddress>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <ipaddress>010.009.009.009</ipaddress>
+        <use-proxy>true</use-proxy>
+        <port-number>8080</port-number>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="30" mcc="234" operator-name="T-Mobile UK" service-provider="T-Mobile" service-provider-id="20">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>general.t-mobile.uk</apn>
+        <username>t-mobile</username>
+        <password>tm</password>
+        <dns>0.0.0.0</dns>
+        <authentication>pap</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <username>t-mobile</username>
+        <password>tm</password>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="08" mcc="450" operator-name="KR KTF" service-provider="CJ HelloVision" service-provider-id="8746">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>alwayson-r6.ktfwing.com</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="05" mcc="244" operator-name="FI elisa" service-provider="Elisa" service-provider-id="256">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>wap</apn>
+        <authentication>None</authentication>
+        <ipaddress>213.161.040.040</ipaddress>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <ipaddress>213.161.040.040</ipaddress>
+        <use-proxy>true</use-proxy>
+        <port-number>80</port-number>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="720" mcc="302" operator-name="Rogers Wireless" service-provider="Rogers" service-provider-id="162">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>goam.com</apn>
+        <username>wapuser1</username>
+        <password>wap</password>
+        <authentication>pap</authentication>
+        <ipaddress>010.128.001.069</ipaddress>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <username>wapuser1</username>
+        <password>wap</password>
+        <ipaddress>010.128.001.069</ipaddress>
+        <use-proxy>true</use-proxy>
+        <port-number>80</port-number>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="370" mcc="302" operator-name="Fido" service-provider="Fido" service-provider-id="163">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>wap.fido.ca</apn>
+        <authentication>None</authentication>
+        <ipaddress>205.151.011.011</ipaddress>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <ipaddress>205.151.011.011</ipaddress>
+        <use-proxy>true</use-proxy>
+        <port-number>80</port-number>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="720" mcc="302" operator-name="Rogers Wireless" service-provider="Fido" service-provider-id="163">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>wap.fido.ca</apn>
+        <authentication>None</authentication>
+        <ipaddress>205.151.011.011</ipaddress>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+        <ipaddress>205.151.011.011</ipaddress>
+        <use-proxy>true</use-proxy>
+        <port-number>80</port-number>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="03" mcc="505" operator-name="vodafone AU" service-provider="Crazy Johns" service-provider-id="698">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>purtona.net</apn>
+        <authentication>Normal</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="08" mcc="425" operator-name="Golan Telecom IL" service-provider="Golan Telecom" service-provider-id="8776">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>internet.golantelecom.net.il</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="02" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="03" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="10" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="31" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="45" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="49" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="90" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="92" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="93" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="94" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="95" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="96" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="97" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="98" mcc="404" operator-name="AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="16" mcc="404" operator-name="IND Airtel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="56" mcc="405" operator-name="IND Airtel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="40" mcc="404" operator-name="INA AIRTEL" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="51" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="52" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="53" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="54" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="55" mcc="405" operator-name="IND AirTel" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="70" mcc="404" operator-name="HEXACOM INDIA LIMITED" service-provider="AirTel" service-provider-id="529">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>airtelgprs.com</apn>
+        <authentication>None</authentication>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="410" mcc="310" operator-name="AT&amp;T" service-provider="H2O Wireless USA" service-provider-id="8782">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>att.mvno</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="260" mcc="310" operator-name="T-Mobile®" service-provider="Simple Mobile USA" service-provider-id="8783">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>simple</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="410" mcc="310" operator-name="AT&amp;T" service-provider="Red Pocket US" service-provider-id="8781">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>att.mvno</apn>
+      </account>
+    </internet>
+    <wap>
+      <profile>
+        <name>SEMC WAP</name>
+      </profile>
+    </wap>
+  </preloaded-data>
+  <preloaded-data mnc="06" mcc="231" operator-name="Telefonica SK" service-provider="Telefonica O2" service-provider-id="569">
+    <internet>
+      <account>
+        <name>SEMC GPRS</name>
+        <apn>o2internet</apn>
         <authentication>None</authentication>
       </account>
     </internet>
