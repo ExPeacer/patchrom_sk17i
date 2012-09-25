@@ -33,7 +33,7 @@ local-remove-apps   := AdobeFlashPlayer Conversations datatrafficswitch DigitalC
 	Gallery2 SemcSettings OemCryptoReceiver Videos textinput-tng chinesetextinput Street Gmail \
 	antradioservice AppEnabler GoogleFeedback widgettimer  widgetanalogclock adobereader \
 	antstatenotifer PMSserviceTrigger MarketUpdater OneTimeInitializer neoreader SetupWizard \
-	Phonesky GoogleQuickSearchBox VoiceSearch widgetworldclock  widgetcalendar MediaUploader  \
+	GoogleQuickSearchBox VoiceSearch widgetworldclock  widgetcalendar MediaUploader  \
 	SemcPhone enhancedusbux \
 	AddWidget CdfInfoAccessor DefaultThemes DrmDialogs FastDormancy \
 	HoloSpiralWallpaper LearningClient Protips \
