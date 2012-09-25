@@ -1,5 +1,4 @@
 ui_print("@Initializing file system...");
-ui_print("Formatting /system");
 
 ##---- Bootloader
 	  
@@ -8,7 +7,7 @@ ui_print("Formatting /system");
       file_getprop("/tmp/aroma-data/bl.prop","selected.0") == "1"
     then
     ui_print("@  Add files to LOCKED bootloader");
-    mount("yaffs2", "MTD", "/dev/block/mtdblock0", "/system");
+    mount("yaffs2", "MTD", "system", "/system");
     package_extract_dir("dev/locked", "/system");
     endif;
 
@@ -18,9 +17,9 @@ ui_print("Formatting /system");
       file_getprop("/tmp/aroma-data/bl.prop","selected.0") == "2"
     then
     ui_print("@  Add files to UNLOCKED bootloader");
-	unmount("/system");
-	format("yaffs2", "MTD", "system", "0");
-    mount("yaffs2", "MTD", "/dev/block/mtdblock0", "/system");
+    unmount("/system");
+    format("yaffs2", "MTD", "system", "0");
+    mount("yaffs2", "MTD", "system", "/system");
     package_extract_dir("dev/unlocked", "/system/bin");
     endif;
 
@@ -246,7 +245,7 @@ symlink("/data/etc/wifi/wl1271-nvs.bin","/system/etc/firmware/ti-connectivity/wl
 set_perm_recursive(0, 2000, 0777, 0777, "/system/etc/init.d");
 set_perm(0, 0, 06755, "/system/xbin/invoke-as");
 set_perm(0, 0, 06755, "/system/xbin/su");
-mount("yaffs2", "MTD", "/dev/block/mtdblock3", "/data");
+mount("yaffs2", "MTD", "userdata", "/data");
 package_extract_dir("data", "/data");
 ui_print(" ");
 ui_print("@Unmounting...");
