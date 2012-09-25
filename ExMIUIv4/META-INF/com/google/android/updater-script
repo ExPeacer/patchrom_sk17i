@@ -20,7 +20,7 @@ ui_print("@Initializing file system...");
     unmount("/system");
     format("yaffs2", "MTD", "system", "0");
     mount("yaffs2", "MTD", "system", "/system");
-    package_extract_dir("dev/unlocked", "/system/bin");
+    package_extract_dir("dev/unlocked", "/system");
     endif;
 
 ui_print("@Copying files...");
@@ -242,9 +242,18 @@ set_perm(0, 0, 0755, "/system/xbin/busybox-installer");
 run_program("/sbin/sh", "/system/xbin/busybox-installer");
 delete("/system/xbin/busybox-installer");
 symlink("/data/etc/wifi/wl1271-nvs.bin","/system/etc/firmware/ti-connectivity/wl1271-nvs.bin");
-set_perm_recursive(0, 2000, 0777, 0777, "/system/etc/init.d");
+set_perm_recursive(0, 0, 0777, 0777, "system/etc/init.d");
 set_perm(0, 0, 06755, "/system/xbin/invoke-as");
 set_perm(0, 0, 06755, "/system/xbin/su");
+    
+# Locked init.d
+    if
+      file_getprop("/tmp/aroma-data/bl.prop","selected.0") == "1"
+    then
+    set_perm(0, 2000, 0755, "/system/bin/sysinit");
+    set_perm(0, 2000, 0777, "/system/xbin/run-parts");
+    endif;
+
 mount("yaffs2", "MTD", "userdata", "/data");
 package_extract_dir("data", "/data");
 ui_print(" ");
