@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Көріністі тану</string>
+    <string name="cam_strings_shortcut_normal_txt">Қалыпты</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Контур. жарық түс. портрет</string>
+    <string name="cam_strings_flash_txt">Жарықтандырғыш</string>
+    <string name="cam_strings_self_timer_txt">Авто таймер</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Smile Shutter™ қосулы кезде өзгермейді</string>
+    <string name="cam_3d_strings_setting_image_size_txt">Панорама кескін. өлш-і</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Тел. оңға немесе солға еңкейтіңіз</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">3D суретін көру үшін 3D телед-на HDMI кабелімен жалғаңыз</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Көп бұрыш. сурет көру</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">HDMI кабелі жалғанған кезде бұл режим пайдаланылмайды. Кабельді ажыратыңыз.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Бұл файлды 3D ф-да көру үшін 3D қолд-н құрылғ. пайдал-з.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI қатесі</string>
+    <string name="cam_strings_fast_capturing_finish_confirmation_title_txt">Жылдам қосу режимі</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Суретті 3D пішімінде көру үшін, телефонды 3D теледидарға Ойнату түймесін басу арқылы қосыңыз.</string>
+</resources>

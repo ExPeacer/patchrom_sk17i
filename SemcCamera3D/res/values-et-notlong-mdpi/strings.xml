@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Pildistamisolude tuvast.</string>
+    <string name="cam_strings_shortcut_normal_txt">Tavaline</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Taustvalgustusega portree</string>
+    <string name="cam_strings_focus_mode_txt">Fookust-rež.</string>
+    <string name="cam_strings_image_stabilizer_txt">Pildistabilisaator</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ei saa valida, kui valik Smile Shutter™ on aktiivne</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Ka mitme nurga alt</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Kallut. tel. paremale või vasakule</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Kuva mit. nurga alt pilt</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">See pildistamisrežiim ei toeta HDMI-väljundit. Eemaldage HDMI-kaabel.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-tõrge</string>
+</resources>

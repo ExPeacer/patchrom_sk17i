@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">זיהוי זירת צילום</string>
+    <string name="cam_strings_shortcut_normal_txt">רגיל</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_txt">זירת צילום בלילה</string>
+    <string name="cam_strings_flash_red_eye_reduc_txt">"הפחתת 'עיניים אדומות'"</string>
+    <string name="cam_strings_focus_mode_single_af_txt">מיקוד אוטומטי לעצם בודד</string>
+    <string name="cam_strings_focus_mode_multi_af_txt">מיקוד אוטומטי לריבוי עצמים</string>
+    <string name="cam_strings_white_balance_auto_txt">אוטומטי</string>
+    <string name="cam_strings_white_balance_incandescent_txt">נורת ליבון</string>
+    <string name="cam_strings_white_balance_fluorescent_txt">פלואורסצנט</string>
+    <string name="cam_strings_white_balance_day_light_txt">אור יום</string>
+    <string name="cam_strings_white_balance_cloudy_txt">מעונן</string>
+    <string name="cam_strings_geotagging_txt">תיוג גיאוגרפי</string>
+    <string name="cam_strings_touch_capturing_txt">לכידה בנגיעה</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">לכידה בנגיעה</string>
+    <string name="cam_strings_video_size_fwvga_txt">VGA רחב מלא</string>
+    <string name="cam_strings_video_size_full_hd_txt">HD מלא</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">לא זמין כאשר Smile Shutter™‎ פעיל</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">קובץ 3D, גם</string>
+    <string name="cam_3d_strings_shooting_guide_left_to_right_txt">בצע תנועה פנורמית משמאל לימין</string>
+    <string name="cam_3d_strings_shooting_guide_right_to_left_txt">בצע תנועה פנורמית מימין לשמאל</string>
+    <string name="cam_3d_strings_shooting_guide_down_to_up_txt">בצע תנועה פנורמית מלמטה למעלה</string>
+    <string name="cam_3d_strings_shooting_guide_up_to_down_txt">בצע תנועה פנורמית מלמעלה למטה</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">"הטה את הטל' ימינה או שמאלה"</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">"להצגת תמ' בתלת-ממד, התח' לטלוויזית תלת-ממד עם כבל HDMI‏"</string>
+    <string name="cam_3d_strings_dialog_loading_txt">טוען</string>
+    <string name="cam_3d_strings_dialog_delete_only_3d_txt">3D בלבד</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">לא ניתן להשתמש במצב זה כאשר מחובר כבל HDMI. נתק את הכבל.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">"כדי להציג תמונה זו בתלת-מ', השתמש בהתקן שתומך בתלת-מ'."</string>
+    <string name="cam_strings_advanced_setting_geo_tag_title_txt">הפעל תיוג גיאוגרפי</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">שגיאת HDMI</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">כדי להציג תמונה בתלת-מימד, חבר את הטלפון לטלוויזיית תלת-מימד באמצעות HDMI או הקשה על לחצן Play (הפעל) בהתקן.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">כדי להציג תמונה זו בתלת-ממד, חבר את הטלפון שלך לטלוויזיה תלת-ממדית על-ידי הקשה על לחצן Play (הפעל) בהתקן.</string>
+</resources>

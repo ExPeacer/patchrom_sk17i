@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">تشخیص صحنه</string>
+    <string name="cam_strings_shortcut_normal_txt">معمولی</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_portrait_txt">عكس چهره در شب</string>
+    <string name="cam_strings_settings_auto_txt">خودكار</string>
+    <string name="cam_strings_scenes_txt">مناظر</string>
+    <string name="cam_strings_light_txt">نور عکس</string>
+    <string name="cam_strings_self_timer_txt">تایمر خودکار</string>
+    <string name="cam_strings_white_balance_day_light_txt">نور روز</string>
+    <string name="cam_strings_image_stabilizer_txt">تثبیت کننده تصویر</string>
+    <string name="cam_strings_geotagging_txt">برچسب مکان</string>
+    <string name="cam_strings_touch_capturing_txt">عکسبرداری لمسی</string>
+    <string name="cam_strings_shutter_sound_txt">صدای شاتر</string>
+    <string name="cam_strings_save_destination_ims_txt">حافظه داخلی</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">وقتی ™Smile Shutter فعال است، قابل دسترسی نیست</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">چند زاویه نیز هست</string>
+    <string name="cam_3d_strings_shooting_guide_down_to_up_txt">حرکت از بالا به پایین</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">تلفن را به راست یا چپ کج کنید</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">مشاهده تصویر چند زاویه</string>
+    <string name="cam_3d_strings_dialog_loading_txt">بارگذاری</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">استفاده از این حالت با اتصال کابل HDMI امکان پذیر نیست. لطفاً کابل را جدا کنید.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">استفاده از دستگاه پشتیبانی کننده 3D برای مشاهده فایل در 3D</string>
+    <string name="cam_status_remained_min">‏ %1$d دق.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">خطای HDMI</string>
+    <string name="cam_strings_capturing_method_txt">روش تصویربرداری</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">برای دیدن عکس 3D، دوربین را با HDMI، یا ضربه بر دکمه پخش در دستگاه، به تلویزیون 3D وصل کنید.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">برای دیدن عکس بصورت 3D، تلفن را با ضربه بر دکمه پخش در دستگاه، به یک تلویزیون 3D وصل کنید.</string>
+</resources>

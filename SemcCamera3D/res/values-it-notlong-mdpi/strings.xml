@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Riconoscimento scena</string>
+    <string name="cam_strings_shortcut_normal_txt">Normale</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Ritratto retroilluminato</string>
+    <string name="cam_strings_scenes_landscape_txt">Paesaggio</string>
+    <string name="cam_strings_focus_mode_txt">Mod. messa a fuoco</string>
+    <string name="cam_strings_fast_capturing_txt">Quick launch</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">"Non disponibile quando Smile Shutter™  è attivo"</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">File 3D</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Inclina il tel. a destra o a sinistra</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Per visual. imm. in 3D, colleg. a un TV 3D con un cavo HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_3d_player_txt">Immagine 3D</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Ubicazione sconosc.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">"Questa modalità di acquisizione non supporta l'uscita HDMI. Scollegare il cavo HDMI."</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Per vedere questo file in 3D, utilizza un disp. che supp. il 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Errore HDMI</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Riconoscimento scene</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Memoria piena. Eliminare alcuni file dalla memoria.</string>
+    <string name="cam_strings_fast_capturing_activated_txt">Modalità Quick Launch</string>
+    <string name="cam_strings_fast_capturing_finish_confirmation_txt">La fotocamera è in modalità Quick Launch. Impostazioni non disponibile. Tornare in modalità normale?</string>
+    <string name="cam_strings_fast_capturing_screen_locked_txt">Lo schermo è bloccato. Per utilizzare Quick Launch, sbloccare lo schermo e abilitare questa funzione.</string>
+    <string name="cam_strings_fast_capturing_allowance_txt">Grazie a Quick Launch puoi attivare istantaneamente la fotocamera con il telefono in modalità di sospensione, tenendo premuto il tasto della fotocamera. Questa funzione accende la fotocamera anche se lo schermo è bloccato. Consentire Quick Launch?</string>
+    <string name="cam_strings_fast_capturing_allowance_title_txt">Imposta Quick Launch</string>
+    <string name="cam_strings_fast_capturing_finish_confirmation_title_txt">Modalità Quick Launch</string>
+    <string name="cam_strings_fast_capturing_title_txt">Quick Launch</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Per visualizzare un foto in 3D, collegare il telefono utilizzando un HDMI o sfiorando Play sul pulsante del dispositivo.</string>
+</resources>

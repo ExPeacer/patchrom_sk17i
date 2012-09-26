@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_save_destination_ims_txt">内部存储设备</string>
+    <string name="cam_strings_video_size_hd_720p_txt">HD 720p</string>
+    <string name="cam_strings_video_size_full_hd_txt">全HD</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">当Smile Shutter™处于活动状态时不可用</string>
+    <string name="cam_3d_strings_gallery_txt">图片库</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">连接HDMI连接线时无法使用此模式。请拔出连接线。</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI错误</string>
+    <string name="cam_3d_strings_sweep_multi_angle_short_txt">多角度拍摄</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Reconoc. de escena</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Contraluz</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Retrato a contraluz</string>
+    <string name="cam_strings_settings_on_txt">Encendido</string>
+    <string name="cam_strings_settings_off_txt">Apagado</string>
+    <string name="cam_strings_self_timer_txt">Temporizador automático</string>
+    <string name="cam_strings_geotagging_txt">Geolocalización</string>
+    <string name="cam_strings_save_destination_txt">Almacenamiento datos</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">No se puede ampliar en la cámara frontal</string>
+    <string name="cam_strings_zoom_unavailable_resolution_txt">No se puede ampliar esta resolución</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">No está disponible cuando Smile Shutter™ está activo.</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Múlt. áng. también</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">Arch. 3D tb.</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Inclinar teléf. a derecha o izquierda</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Para ver la imagen 3D, conecte una TV en 3D con cable HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Ver múlt. ángulos</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Ubicac. desconocida</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">No se puede usar este modo con un cable HDMI conectado. Desconecte el cable.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Error de HDMI</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Reconocimiento de escena</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Memoria llena. Elimine algunos archivos.</string>
+    <string name="cam_strings_fast_capturing_allowance_txt">Con Inicio rápido, puede activar instantáneamente la cámara desde el modo reposo del teléfono manteniendo pulsada la tecla de la cámara. Esta función activa la cámara aunque la pantalla esté bloqueada. ¿Permitir Inicio rápido?</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Para ver una foto en 3D, conecte el teléfono a un TV 3D usando un HDMI o punteando el botón Reproducir en dispositivo.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Para ver esta foto en 3D, conecte el teléfono a un TV 3D punteando el botón Reproducir en dispositivo.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Motiv-gjenkjenning</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Baklys</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Baklys portrett</string>
+    <string name="cam_strings_touch_capturing_txt">Berøringsbilde</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Berøringsbilde</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ikke tilgjengelig mens Smile Shutter™ er aktiv</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Også flervinklet</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Vipp mot venstre eller høyre</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Kan ikke bruke denne modusen med en HDMI-kabel tilkoblet. Ta ut kabelen.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-feil</string>
+</resources>

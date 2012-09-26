@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Reconh. de cenas</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_txt">Cena noturna</string>
+    <string name="cam_strings_settings_off_txt">Desativada</string>
+    <string name="cam_strings_scenes_nightmode_txt">Modo nocturno</string>
+    <string name="cam_strings_smile_capture_txt">Detecção de sorriso</string>
+    <string name="cam_strings_focus_mode_multi_af_txt">Multi focagem automática</string>
+    <string name="cam_strings_save_destination_txt">Armaz. de dados</string>
+    <string name="cam_strings_save_destination_ims_txt">Armazenam. interno</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Não pode ser alterado enquanto o Smile Shutter™ estiver activo</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Multi Angle, tb</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Apenas este fich.</string>
+    <string name="cam_3d_strings_setting_image_size_16_9_txt">16:09</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Incline o telef. p/ direita ou p/ esq.</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Ver imag. Multi Angle</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Loc. desconhecida</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Para ver este ficheiro em 3D, use dispositivo com suporte 3D.</string>
+    <string name="cam_status_remained_num">%1$d min.</string>
+    <string name="cam_strings_unavailable_in_capturing_mode_txt">Não disponível em combinação com o modo de captura actual.</string>
+    <string name="cam_strings_fast_capturing_allowance_txt">Com a Iniciação Rápida, pode activar instantaneamente a câmara a partir do modo de suspensão, premindo sem soltar a tecla da câmara. Esta funcionalidade liga a câmara mesmo se o ecrã estiver bloqueado. Permitir Iniciação Rápida?</string>
+    <string name="cam_strings_smile_capture_title_txt">Detecção de sorriso</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Para ver uma fotografia em 3D, ligue o seu telef. a uma TV 3D, utilizando um cabo HDMI ou tocando no botão Reprod. no disp.</string>
+</resources>

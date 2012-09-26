@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Motivgenkendelse</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Baggrundslys</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Baggrundslys, portræt</string>
+    <string name="cam_strings_scenes_txt">Scener</string>
+    <string name="cam_strings_exposure_level_txt">Eksponeringsværdi</string>
+    <string name="cam_strings_image_stabilizer_txt">Billedstabilisator</string>
+    <string name="cam_strings_touch_capturing_txt">Berør optag</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Optagelse ved berøring</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">Kan ikke zoome i forreste kamera</string>
+    <string name="cam_strings_wireless_gps_explanatory_txt">Placering opnået med GPS går altid forud for trådløse netværk. For at skifte metode for opnåelse af placering, skal du gå til Indstillinger > Placering.</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ikke tilgængelig, når Smile Shutter™ er aktiv</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Tilslut til et 3D-tv med et HDMI-kabel for at se 3D-billedet</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Denne tilstand kan ikke bruges, når der er tilsluttet et HDMI-kabel. Tag kablet ud.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-fejl</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Scenegenkendelse</string>
+</resources>

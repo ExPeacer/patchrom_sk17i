@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Prepoznavanje scene</string>
+    <string name="cam_strings_shortcut_normal_txt">Normalno</string>
+    <string name="cam_strings_shortcut_front_camera_txt">Prednji fotoaparat</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portret s pozad. osvjetlj.</string>
+    <string name="cam_strings_smile_capture_txt">Otkrivanje osmijeha</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Dodirno snimanje</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">Zumiranje nije moguće na prednjem fotoaparatu</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Nije dostupno dok je aktivan Smile Shutter™</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Za prikaz 3D slika, spojite s HDMI kabelom na 3D TV</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Taj način nije moguće koristiti dok je priključen HDMI kabel. Iskopčajte kabel.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Za prikaz datoteke u 3D teh. koristite uređaj koji podržava 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Pogreška HDMI-ja</string>
+    <string name="cam_strings_capturing_mode_front_camera_short_txt">Prednji fotoaparat</string>
+    <string name="cam_strings_smile_capture_title_txt">Otkrivanje osmijeha</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Da biste vidjeli sliku u 3D tehnici, povežite telefon s 3D televizorom tako da dotaknete gumb Reproduciraj na uređaju.</string>
+</resources>

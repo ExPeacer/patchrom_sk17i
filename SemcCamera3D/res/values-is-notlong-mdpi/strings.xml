@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Umhverfisgreining</string>
+    <string name="cam_strings_shortcut_normal_txt">Venjuleg</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Andlitsmynd með baklýsing.</string>
+    <string name="cam_strings_save_destination_ims_txt">Innri geymsla</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ekki hægt að breyta á meðan að Smile Shutter™ er virkt</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Líka margf. sj.horn</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Hallaðu síma til hægri eða vinstri</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Tengstu þrívíddarsjónv. með HDMI til að sjá myndina í þrívídd</string>
+    <string name="cam_3d_strings_dialog_delete_only_3d_txt">Bara 3D</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Þessi tökustilling styður ekki HDMI-úttak. Taktu HDMI-snúruna úr sambandi.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Nota þarf tæki sem styður þrívídd til að skoða skrána í þvívídd.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-villa</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Umhverfisgreining</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Til að skoða mynd í þrívídd skaltu tengja símann við þrívíddar-sjónvarp með HDMI eða með því að pikka á hnappinn Spila í tæki.</string>
+    <string name="cam_strings_error_storage_changing_to_internal_txt">Ekkert minniskort tiltækt. Sjálfgefnum vistunarstað breytt í innra minni.</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Pangwanoh pamandgn</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_txt">Adegan</string>
+    <string name="cam_strings_flash_txt">Flash</string>
+    <string name="cam_strings_self_timer_txt">Timer otomatis</string>
+    <string name="cam_strings_image_stabilizer_txt">Panyetabil gambar</string>
+    <string name="cam_strings_touch_capturing_txt">Toe. jang nyo. gambar</string>
+    <string name="cam_strings_save_destination_ims_txt">Panyimpenan internal</string>
+    <string name="cam_strings_fast_capturing_txt">Muka gancang</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Teu sadia lamun Smile Shutter™ aktip</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">Pyl 3D oge</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Ngan payil ieu</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Dengdek tlp ka kenca atw katuhu</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">"Pikeun nempo gbr 3D, sambungk'n ka TV 3D make kabel HDMI"</string>
+    <string name="cam_3d_strings_menu_details_date_unknown_txt">Tgl teu kanyahoan</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Modeu ieu teu bisa dipake lamun kabel HDMI disambungkeun. Mangga cabut kabel.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Misalah HDMI</string>
+    <string name="cam_strings_capturing_method_txt">Metodeu motret</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Memori pinuh. Pupus sababaraha payil ti kartu memori.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Jang nempo poto di 3D, sambungkeun kamera ka TV 3D ku cara make HDMI atawa ngetok Puter dina kenop alat..</string>
+</resources>

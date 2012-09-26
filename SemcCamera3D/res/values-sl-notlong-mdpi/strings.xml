@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Prepoznavanje prizora</string>
+    <string name="cam_strings_shortcut_normal_txt">Navadno</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portret z osvetlitv. v ozadju</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ni na voljo, ko je aktivna funkcija Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">Tudi 3D da.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Za ogled slike 3D povežite s 3D TV prek kabla HDMI</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Tega načina ni mogoče uporabiti, ko je povezan kabel HDMI. Iztaknite kabel.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Če si žel. to dat. ogl. v nač. 3D, uporabi. napravo, ki ga podpira.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Napaka kabla HDMI</string>
+    <string name="cam_strings_capturing_mode_front_video_short_txt">Sprednji videoposnetek</string>
+    <string name="cam_strings_capturing_method_txt">Način zajema</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Če si želite fotografijo ogledati v tehnologiji 3D, povežite napravo s televiz. 3D s kablom HDMI ali tapnite gumb »Predvajaj v napravi«.</string>
+</resources>

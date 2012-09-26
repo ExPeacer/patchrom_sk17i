@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">S rozlišením scény</string>
+    <string name="cam_strings_shortcut_normal_txt">Normálně</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Není k dispozici při aktivaci funkce Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Jen tento soubor</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Zobr. víceúhl. snímek</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Tento režim nelze použít se zapojeným kabelem HDMI. Odpojte kabel.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">K 3D zobrazení tohoto souboru použijte podporov. 3D zařízení.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Chyba HDMI</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">S rozlišením scény</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Chcete-li zobrazit fotografii ve 3D, připojte telefon k 3D TV pomocí rozhraní HDMI nebo ťuknutím na tlačítko Přehrát v zařízení.</string>
+    <string name="cam_strings_error_storage_changing_to_internal_txt">Není k dispozici karta SD. Výchozí místo pro ukládání bylo změněno na interní úložiště.</string>
+</resources>

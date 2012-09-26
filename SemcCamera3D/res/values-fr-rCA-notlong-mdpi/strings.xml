@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Reconn. de scène</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portrait avec contrejour</string>
+    <string name="cam_strings_light_txt">Éclairage</string>
+    <string name="cam_strings_smile_capture_normal_txt">Sourire moye</string>
+    <string name="cam_strings_focus_mode_txt">Mode Focus</string>
+    <string name="cam_strings_touch_capturing_txt">Prise de vue - écr. tactile</string>
+    <string name="cam_strings_save_destination_ims_txt">Mémoire interne</string>
+    <string name="cam_strings_fast_capturing_txt">Quick Launch</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Non disponible quand le Smile Shutter™ est activé</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Image 3D, connectez une TV 3D avec un câble HDMI</string>
+    <string name="cam_3d_strings_error_zoom_3d_sweep_panorama_txt">Zoom non disponible en mode panorama par balayage 3D.</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Affich. à angles multip.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Ce mode de capture ne prend pas en charge la sortie HDMI. Veuillez débrancher le câble.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Erreur HDMI</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Reconnaissance scénique</string>
+    <string name="cam_strings_capturing_mode_front_video_short_txt">Vidéo avant</string>
+    <string name="cam_strings_fast_capturing_allowance_title_txt">Param. lancement rapide</string>
+    <string name="cam_strings_fast_capturing_finish_confirmation_title_txt">Mode de lancement rapide</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">"Pour afficher une photo 3D, connectez votre caméra au téléviseur 3D au moyen d'un câble HDMI ou tapez sur ​​la touche Lecture."</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Pour visionner cette photo en 3D, connectez votre téléphone à un téléviseur 3D en tapant sur ​​le bouton de Lecture.</string>
+</resources>

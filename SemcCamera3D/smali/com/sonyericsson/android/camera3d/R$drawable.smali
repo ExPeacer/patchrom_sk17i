@@ -311,11 +311,11 @@
 
 .field public static final cam_vf_touch_cap_on_icn:I = 0x7f020093
 
-.field public static final capturing_mode_selector_button_item_backgroundimage:I = 0x7f02009a
+.field public static final capturing_mode_selector_button_item_backgroundimage:I = 0x7f02009f
 
 .field public static final capturing_mode_selector_buttonitem_background:I = 0x7f020094
 
-.field public static final capturing_mode_selector_dialog_item_backgroundimage:I = 0x7f02009b
+.field public static final capturing_mode_selector_dialog_item_backgroundimage:I = 0x7f0200a0
 
 .field public static final capturing_mode_selector_dialogitem_background:I = 0x7f020095
 
@@ -327,13 +327,23 @@
 
 .field public static final dialog_top_holo_dark:I = 0x7f020099
 
+.field public static final popup_bottom_dark:I = 0x7f02009a
+
+.field public static final popup_bottom_medium:I = 0x7f02009b
+
+.field public static final popup_center_dark:I = 0x7f02009c
+
+.field public static final popup_full_dark:I = 0x7f02009d
+
+.field public static final popup_top_dark:I = 0x7f02009e
+
 
 # direct methods
 .method public constructor <init>()V
     .locals 0
 
     .prologue
-    .line 512
+    .line 510
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void

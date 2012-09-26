@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Sižeta atpazīšana</string>
+    <string name="cam_strings_shortcut_normal_txt">Parasts</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portrets ar fona apgaism.</string>
+    <string name="cam_strings_touch_capturing_txt">Uzņemš. ar pieskārienu</string>
+    <string name="cam_strings_video_size_fwvga_txt">Full Wide VGA</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Nav pieejams, ja ir aktīva funkcija Smile Shutter™</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Sašķiebt tālruni pa labi vai pa kreisi</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Lai skatītu 3D attēlu, savienojiet 3D televizoru ar HDMI kabeli</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Skatīt vairākleņķu attēlu</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Šo režīmu nevar izmantot, kad ir pievienots HDMI kabelis. Lūdzu, atvienojiet kabeli.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI kļūda</string>
+</resources>

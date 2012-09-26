@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">التعرف على المشهد</string>
+    <string name="cam_strings_shortcut_normal_txt">عادي</string>
+    <string name="cam_strings_shortcut_front_camera_txt">الكاميرا الأمامية</string>
+    <string name="cam_strings_shortcut_front_video_txt">فيديو أمامي</string>
+    <string name="cam_strings_scenes_auto_recog_portrait_txt">مشهد طولي</string>
+    <string name="cam_strings_scenes_auto_recog_landscape_txt">مشاهد خارجية</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">مشهد طولي بإضاءة خلفية</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_portrait_txt">مشهد طولي ليلي</string>
+    <string name="cam_strings_scenes_auto_recog_macro_txt">تصوير عن قرب</string>
+    <string name="cam_strings_scenes_portrait_txt">مشهد طولي</string>
+    <string name="cam_strings_focus_mode_single_af_txt">الضبط التلقائي للبؤرة الفردي</string>
+    <string name="cam_strings_focus_mode_multi_af_txt">الضبط التلقائي للبؤرة المتعدد</string>
+    <string name="cam_strings_exposure_level_m20_txt">EV -2.0</string>
+    <string name="cam_strings_exposure_level_m17_txt">EV -1.7</string>
+    <string name="cam_strings_exposure_level_m13_txt">EV -1.3</string>
+    <string name="cam_strings_exposure_level_m10_txt">EV -1.0</string>
+    <string name="cam_strings_exposure_level_m07_txt">EV -0.7</string>
+    <string name="cam_strings_exposure_level_m03_txt">EV -0.3</string>
+    <string name="cam_strings_exposure_level_pm0_txt">EV ±0.0</string>
+    <string name="cam_strings_exposure_level_p03_txt">EV +0.3</string>
+    <string name="cam_strings_exposure_level_p07_txt">EV +0.7</string>
+    <string name="cam_strings_exposure_level_p10_txt">EV +1.0</string>
+    <string name="cam_strings_exposure_level_p13_txt">EV +1.3</string>
+    <string name="cam_strings_exposure_level_p17_txt">EV +1.7</string>
+    <string name="cam_strings_exposure_level_p20_txt">EV +2.0</string>
+    <string name="cam_strings_save_destination_ims_txt">وحدة التخزين الداخلية</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">غير متوفر عندما يكون Smile Shutter™ نشطًا</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">ملف 3D</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">لعرض الصورة ثلاثية الأبعاد، صل بتلفزيون ثلاثي الأبعاد بكبل HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">عرض صورة متعددة الزوايا</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">يتعذر استخدام هذا الوضع عند توصيل كبل HDMI. الرجاء فصل الكبل.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">لعرض هذا الملف بتنسيق ثلاثي الأبعاد، استخدم جهاز يدعم ع. ث. ب.</string>
+    <string name="cam_status_remained_min">‏%1$dدقيقة</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">خطأ HDMI</string>
+    <string name="cam_strings_capturing_method_txt">أسلوب الالتقاط</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">لعرض هذه الصورة بأبعاد ثلاثية، صل هاتفك بتلفاز ثلاثي الأبعاد باستخدام HDMI أو بالنقر سريعا على زر التشغيل على جهاز.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">لعرض هذه الصورة بأبعاد ثلاثية، صل هاتفك بتلفاز ثلاثي الأبعاد بالنقر سريعا على زر التشغيل على جهاز.</string>
+    <string name="cam_strings_error_storage_changing_to_internal_txt">لا توجد بطاقة SD متوفرة. قم بتغيير موقع الحفظ الافتراضي إلى مخزن داخلي.</string>
+</resources>

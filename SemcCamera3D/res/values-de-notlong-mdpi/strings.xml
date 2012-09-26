@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Motiverkennung</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_touch_capturing_txt">Touch-Fokus</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Touch-Fokus</string>
+    <string name="cam_strings_save_destination_ims_txt">Interner Speicher</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Bei aktiviertem Smile Shutter™ nicht verfügbar</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">+ 3D-Datei</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Telefon nach rechts / links neigen</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Handy und den 3D-Fernseher über ein HDMI-Kabel verbinden.</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Multi-Angle-Bild anz.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Dieser Modus kann nicht mit angeschlossenem HDMI-Kabel verwendet werden. Ziehen Sie das Kabel ab.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Zur Anzeige dieser Datei in 3D, 3D-fähiges Gerät verwenden.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-Fehler</string>
+    <string name="cam_3d_strings_sweep_panorama_short_txt">Schwenk-Panorama</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Zum Anzeigen eines Fotos in 3D verbinden Sie Ihre Kamera per HDMI mit einem 3D-TV, oder tippen Sie auf „Abspielen auf“.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Zum Anzeigen dieses Fotos in 3D verbinden Sie das Telefon mit einem 3D-Fernsehgerät, indem Sie auf „Abspielen auf“ tippen.</string>
+</resources>

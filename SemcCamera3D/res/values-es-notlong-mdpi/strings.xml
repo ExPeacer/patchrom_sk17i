@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Reconocimiento escena</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_landscape_txt">Horizontal</string>
+    <string name="cam_strings_save_destination_txt">Almac de datos</string>
+    <string name="cam_strings_save_destination_ims_txt">Almac interno</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">No está disponible mientras está activo Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Varios áng, tamb</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Incline teléfono a der o a izq</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Conecte telef a TV 3D por cable HDMI para ver la imagen 3D</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Imag. múltiples ángls</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Ubic desconocida</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">No se puede usar este modo con un cable HDMI conectado. Desconecte el cable.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Para ver archivo en 3D, utilice dispositivo compatible con 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Error de HDMI</string>
+    <string name="cam_strings_geotagging_title_txt">Geoetiqueta</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Para ver una foto en 3D, conecte teléfono a TV 3D usando HDMI o tocar suave el botón Reproducir en el dispositivo.</string>
+</resources>

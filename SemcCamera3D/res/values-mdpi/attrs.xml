@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="attr" name="sweep_guide_animating_duration_horizontal">1800</item>
+    <item type="attr" name="sweep_guide_animating_duration_vertical">1800</item>
+    <item type="attr" name="sweep_guide_waiting_duration_in_start">200</item>
+    <item type="attr" name="sweep_guide_waiting_duration_in_end">200</item>
+    <item type="attr" name="sweep_guide_repeat_interval">2000</item>
+    <item type="attr" name="sweep_guide_horizontal_rotation_angle">50</item>
+    <item type="attr" name="sweep_guide_horizontal_bias_z">175</item>
+    <item type="attr" name="sweep_guide_vertical_rotation_angle">47</item>
+    <item type="attr" name="sweep_guide_vertical_bias_z">200</item>
+    <item type="attr" name="album_text_shadow_x">0</item>
+    <item type="attr" name="album_text_shadow_y">0</item>
+    <item type="attr" name="album_font_shadow">2</item>
+    <item type="attr" name="album_thumbnail_column">3</item>
+    <item type="attr" name="tilting_Starategy">SMALL_UI</item>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Αναγνώριση σκηνής</string>
+    <string name="cam_strings_shortcut_normal_txt">Κανονική λήψη</string>
+    <string name="cam_strings_shortcut_front_camera_txt">Μπροστινή κάμερα</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Οπίσθιος φωτισμός</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Πορτρέτο σε οπίσθιο φωτ.</string>
+    <string name="cam_strings_touch_capturing_txt">Λήψη με ένα άγγιγμα</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Λήψη μέσω αφής</string>
+    <string name="cam_strings_save_destination_txt">"Χώρος  αποθ. δεδ."</string>
+    <string name="cam_strings_save_destination_ims_txt">Εσωτ. χώρος αποθήκευσης</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">Η μπροστινή κάμερα δεν έχει δυνατότητα για ζουμ</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Δεν υπάρχει δυνατότητα αλλαγής όσο το Smile Shutter™ είναι ενεργό</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Μόνο αυτό το αρχ.</string>
+    <string name="cam_3d_strings_album_3d_panorama_txt">Ημικυκλ. πανορ. λήψη 3D</string>
+    <string name="cam_3d_strings_setting_image_size_txt">Μέγ. πανορ. εικόνας</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Γείρετε το τηλ. αριστερά ή δεξιά</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Για προβ. εικόν. 3D, συνδέστε μια τηλεόρ. 3D με καλώδ. HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Προβ. εικ. πολλ. όψ.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Δεν είναι δυνατή η χρήση της λειτουργίας με συνδεδεμένο το καλώδιο HDMI. Αποσυνδέστε το καλώδιο.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Για προβ.του αρχ.σε 3D, χρησ. μια υποστηρ.συσκευή 3D.</string>
+    <string name="cam_status_remained_min">%1$dλεπτ.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Σφάλμα HDMI</string>
+    <string name="cam_strings_capturing_mode_front_camera_short_txt">Μπροστινή κάμερα</string>
+    <string name="cam_strings_fast_capturing_allowance_txt">Με τη λειτουργία Γρήγορης εκκίνησης, μπορείτε να ενεργοποιείτε άμεσα την κάμερα από τη λειτουργία αναστολής του τηλεφώνου, πατώντας παρατεταμένα το πλήκτρο κάμερας. Αυτή η λειτουργία ενεργοποιεί την κάμερα ακόμα και αν η οθόνη είναι κλειδωμένη. Να επιτρέπεται η Γρήγορη εκκίνηση;</string>
+    <string name="cam_strings_fast_capturing_finish_confirmation_title_txt">Λειτουργ. Γρήγ. εκκίνησης</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Για την προβολή φωτογρ. σε 3D, συνδέστε την κάμερα σε τηλ. 3D χρησιμ. καλώδιο HDMI ή πατώντας το κουμπί Play on.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Για την προβολή αυτής της εικόνας σε 3D, συνδέστε το τηλέφωνό σας σε τηλεόραση 3D πατώντας το κουμπί Play on.</string>
+    <string name="cam_strings_error_storage_changing_to_internal_txt">Δεν υπάρχει διαθέσιμη κάρτα SD. Η προεπιλεγμένη θέση αποθήκευσης άλλαξε σε εσωτερικό χώρο αποθήκευσης.</string>
+</resources>

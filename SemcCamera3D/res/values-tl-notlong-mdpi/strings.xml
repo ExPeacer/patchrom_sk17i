@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Pagkilala sa eksena</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_light_txt">Ilaw ng litrato</string>
+    <string name="cam_strings_focus_mode_txt">Mode sa pag-focus</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Hindi available kapag aktibo ang Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Multi Angle, din</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Itagilid tel. pakanan o pakaliwa</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Para tingnan ang 3D image, ikonekta sa 3D TV gamit ang HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Tngnn MultiA imahe</string>
+    <string name="cam_3d_strings_menu_go_to_3d_player_txt">Tingnan ang 3D imahe</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Di alam na lokasyon</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Hindi magagamit ang mode na may nakakonektang HDMI cable. Paki-unplug ang cable.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Para tingnan ang file sa 3D, gumamit ng aparato suportado 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Error na HDMI</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Puno na ang memorya. Magtanggal ng ilang file mula sa memorya.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Upang tingnan isang larawan sa 3D, ikonekta telepono mo sa 3D na TV sa HDMI o pagtapik sa button na I-play sa device.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Upang tingnan larawan ito sa 3D, ikonekta telepono mo sa 3D na TV sa pagtapik sa button na I-Play sa device.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Retrato com luz de fundo</string>
+    <string name="cam_strings_save_destination_txt">Armazenam. de dados</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Não disponível quando o Smile Shutter™ está ativado</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">V.ângul. também</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Só este arquivo.</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Incline o telefone p. qualquer lado</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Para exibir a imagem em 3D, conecte a TV 3D com cabo HDMI</string>
+    <string name="cam_3d_strings_dialog_delete_only_3d_txt">Só 3D</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Não é possível usar este modo com o cabo HDMI conectado. Desconecte o cabo.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Para exibir este arq. em 3D, use disp. com suporte p/ 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Erro de HDMI</string>
+</resources>

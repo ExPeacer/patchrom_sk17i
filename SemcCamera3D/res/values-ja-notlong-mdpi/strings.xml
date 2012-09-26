@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">シーン認識</string>
+    <string name="cam_strings_shortcut_front_video_txt">フロントムービー</string>
+    <string name="cam_strings_flash_fill_flash_txt">常にフラッシュをON</string>
+    <string name="cam_strings_self_timer_txt">セルフタイマー</string>
+    <string name="cam_strings_white_balance_txt">ホワイトバランス</string>
+    <string name="cam_strings_touch_capturing_screen_button_txt">撮影ボタンを表示</string>
+    <string name="cam_strings_video_size_txt">ムービーサイズ</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">スマイルシャッターが起動中は変更できません</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">3D画像を見るには、HDMIｹｰﾌﾞﾙで本体と3D TVを接続します</string>
+    <string name="cam_3d_strings_shooting_guide_press_key_txt">カメラキーを押してゆっくりカメラを動かしてください</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">3Dで表示する場合、3Dをｻﾎﾟｰﾄする機器を使用してください。</string>
+    <string name="cam_strings_capturing_mode_front_video_short_txt">フロントビデオ</string>
+</resources>

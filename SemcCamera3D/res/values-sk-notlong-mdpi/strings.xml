@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Rozpoznanie scény</string>
+    <string name="cam_strings_shortcut_normal_txt">Normálny</string>
+    <string name="cam_strings_save_destination_ims_txt">Interná pamäť</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Nie je k dispozícii, keď je aktívna funkcia Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Aj fot. pod r. uhl.</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">Aj súb. 3D</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Nakloňte telef. doprava al. doľava</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Ak chcete zobr. obr. 3D, pripojte tel. k tel. 3D káblom HDMI.</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Zobr. viacuhlový záber</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">V tomto režime nie je možné používať pripojenie kábla HDMI. Odpojte kábel.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Na zobraz. 3D tohto súb. použite podporované zariadenie 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Chyba kábla HDMI</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Pamäť je plná. Odstráňte z pamäte niektoré súbory.</string>
+    <string name="cam_strings_fast_capturing_allowance_title_txt">Nastav. rýchleho spustenia</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Ak chcete zobraziť fotografiu v zobraz. 3D, pripojte fotoaparát k TV 3D pomocou rozhr. HDMI al. ťuknutím na tl. Prehrať na zariadení.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Ak chcete zobraziť fotografiu v zobrazení 3D, pripojte telefón k televízoru 3D ťuknutím na tlačidlo Prehrať na zariadení.</string>
+</resources>

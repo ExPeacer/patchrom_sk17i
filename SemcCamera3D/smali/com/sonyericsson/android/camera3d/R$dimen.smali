@@ -71,9 +71,9 @@
 
 .field public static final album_player_guild_icon_margin_top:I = 0x7f09015f
 
-.field public static final album_player_guild_text_margin_left:I = 0x7f090161
+.field public static final album_player_guild_text_margin_left:I = 0x7f090162
 
-.field public static final album_player_guild_text_margin_top:I = 0x7f090162
+.field public static final album_player_guild_text_margin_top:I = 0x7f090161
 
 .field public static final album_player_margin_between_icons:I = 0x7f090163
 
@@ -529,11 +529,11 @@
 
 .field public static final settings_dialog_padding_top:I = 0x7f090126
 
-.field public static final settings_dialog_separator_height:I = 0x7f09012c
+.field public static final settings_dialog_separator_height:I = 0x7f09012a
 
-.field public static final settings_dialog_separator_margin_bottom:I = 0x7f09012b
+.field public static final settings_dialog_separator_margin_bottom:I = 0x7f09012c
 
-.field public static final settings_dialog_separator_margin_top:I = 0x7f09012a
+.field public static final settings_dialog_separator_margin_top:I = 0x7f09012b
 
 .field public static final settings_dialog_text_margin:I = 0x7f090128
 
@@ -759,7 +759,7 @@
     .locals 0
 
     .prologue
-    .line 111
+    .line 109
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     return-void

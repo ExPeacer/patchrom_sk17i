@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Pengecamn pmandangn</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_touch_capturing_txt">Sentuh tangkap</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Sentuh tangkap</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">Tidak boleh mengezum dalam hadapan kamera</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Tidak tersedia apabila Smile Shutter™ aktif</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Multi Angle juga</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Sengetkan telefon ke kanan/kiri</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Utk melihat imej 3D, sambung kepada TV 3D dgn kabel HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Lihat imej Pelbg. Sudut</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Tidak boleh menggunakan mod ini dengan kabel HDMI disambungkan. Sila cabutkan pemalam kabel.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Untuk melihat fail ini dlm 3D, gnkan peranti yg menyokong 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Ralat HDMI</string>
+    <string name="cam_strings_capturing_method_txt">Kaedah tangkapan</string>
+</resources>

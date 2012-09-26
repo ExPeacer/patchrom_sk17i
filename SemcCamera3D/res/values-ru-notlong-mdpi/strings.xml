@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Определение условий</string>
+    <string name="cam_strings_shortcut_normal_txt">Обычный</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Портрет в контровом свете</string>
+    <string name="cam_strings_focus_mode_txt">Режим фокусир.</string>
+    <string name="cam_strings_exposure_level_txt">Экспозиц. число</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Недоступно, если включена функция Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Multi Angle, тоже</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Наклоните вправо или влево</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Просм. м-ракурс. обз.</string>
+    <string name="cam_3d_strings_menu_go_to_3d_player_txt">Просмотр. 3D-изобр.</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Неизвест. местопол.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Невозможно использовать этот режим с подключенным кабелем HDMI. Отсоедините кабель.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Для просмотра в 3D используйте устройства с поддерж. 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Ошибка HDMI</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Определение условий</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Для просмотра фото в 3D подключите телефон к 3D-телевизору с помощью HDMI или кнопки \"Воспр. на устр.\"</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Для просмотра фотографии в 3D подключите телефон к 3D-телевизору, коснувшись кнопки \"Воспр. на устройстве\".</string>
+</resources>

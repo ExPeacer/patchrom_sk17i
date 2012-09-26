@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">อัตโนมัติ</string>
+    <string name="cam_strings_shortcut_normal_txt">ปกติ</string>
+    <string name="cam_strings_shortcut_front_camera_txt">กล้องด้านหน้า</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">แสงไฟหลัง</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">ภาพบุคคลแสงไฟหลัง</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_txt">ภาพกลางคืน</string>
+    <string name="cam_strings_smile_capture_big_txt">"รอยยิ้ม
+ขนาดใหญ่"</string>
+    <string name="cam_strings_smile_capture_normal_txt">"รอยยิ้ม
+โดยเฉลี่ย"</string>
+    <string name="cam_strings_smile_capture_faint_txt">"รอยยิ้ม
+ขนาดเล็ก"</string>
+    <string name="cam_strings_focus_mode_multi_af_txt">โฟกัสอัตโนมัติหลายจุด</string>
+    <string name="cam_strings_white_balance_incandescent_txt">ไฟหลอด</string>
+    <string name="cam_strings_white_balance_fluorescent_txt">ไฟนีออน</string>
+    <string name="cam_strings_touch_capturing_txt">ถ่ายภาพโดยสัมผัสหน้าจอ</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">"สัมผัสเพื่อ
+จับภาพ"</string>
+    <string name="cam_strings_save_destination_ims_txt">ที่จัดเก็บข้อมูล ภายใน</string>
+    <string name="cam_strings_save_destination_sd_txt">การ์ดหน่วยควาจำ</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">ซูมในกล้องด้านหน้าไม่ได้</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">ไม่พร้อมใช้งานเมื่อ Smile Shutter™ ทำงาน</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">ไฟล์3D ด้วย</string>
+    <string name="cam_3d_strings_album_3d_panorama_txt">ถ่ายภาพพาโนรามา 3 มิติ</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">เอียงโทรศัพท์ทางขวาหรือทางซ้าย</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">หากต้องการดูภาพ 3 มิติ ให้เชื่อมต่อกับ TV ระบบ 3 มิติด้วยสาย HDMI</string>
+    <string name="cam_3d_strings_shooting_guide_press_key_txt">กดปุ่มกล้องแล้วค่อยๆ แพนกล้อง</string>
+    <string name="cam_3d_strings_shooting_guide_touch_cap_txt">แตะช่องมองภาพ แล้วค่อยๆ แพนกล้อง</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">ไม่สามารถใช้โหมดนี้หากเชื่อมต่อสาย HDMI โปรดถอดสายดังกล่าว</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">ในการดูไฟล์นี้แบบ 3D โปรดใช้อุปกรณ์ที่สนับสนุน 3D</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI เกิดข้อผิดพลาด</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">อัตโนมัติ</string>
+    <string name="cam_strings_capturing_mode_front_camera_short_txt">กล้องด้านหน้า</string>
+    <string name="cam_3d_strings_3d_sweep_panorama_short_txt">"ถ่ายภาพพาโนรามา 
+3 มิติ"</string>
+    <string name="cam_strings_error_memory_ims_full_txt">"หน่วยความจำเต็ม ให้ลบบางไฟล์
+ออกจากหน่วยความจำ"</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">"หากต้องการดูภาพถ่ายนี้ในแบบ 3D ให้เชื่อมต่อโทรศัพท์ของคุณ
+เข้ากับ TV ระบบ 3D โดยการแตะที่ปุ่ม เล่นบนอุปกรณ์"</string>
+</resources>

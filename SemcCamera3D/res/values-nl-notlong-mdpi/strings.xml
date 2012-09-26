@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Scèneherkenning</string>
+    <string name="cam_strings_shortcut_normal_txt">Normaal</string>
+    <string name="cam_strings_shortcut_front_camera_txt">Voorcamera</string>
+    <string name="cam_strings_scenes_landscape_txt">Liggend</string>
+    <string name="cam_strings_resolution_txt">Detailscherpte</string>
+    <string name="cam_strings_focus_mode_txt">Focusmodus</string>
+    <string name="cam_strings_image_stabilizer_txt">Beeldstabilisator</string>
+    <string name="cam_strings_touch_capturing_txt">Aanraken</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Niet beschikbaar wanneer Smile Shutter™ actief is</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">Ook 3D-bst</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Sluit aan op 3D-tv met HDMI-kabel om 3D-beeld te bekijken</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Deze opnamemodus kan niet worden gebruikt met een aangesloten HDMI-kabel. Verwijder de kabel.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Bekijk bestand in 3D op een apparaat met 3D-ondersteuning.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-fout</string>
+    <string name="cam_strings_capturing_mode_front_camera_short_txt">Voorcamera</string>
+</resources>

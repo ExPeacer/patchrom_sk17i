@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Njohja e skenës</string>
+    <string name="cam_strings_shortcut_normal_txt">Normale</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portret ndriçim të kundërt</string>
+    <string name="cam_strings_self_timer_txt">Kohmat. vetfotografim.</string>
+    <string name="cam_strings_touch_capturing_txt">Kapja me prekje</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Nuk disponohet kur Smile Shutter™ është aktive</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Dhe shumëkëndor.</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">Dhe skd.3D</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Vetëm këtë sked.</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Përkulni telef. djathtas ose majtas</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Për të parë imazhin 3D, lidheni me një TV 3D me kabllo HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Shih imzh. shumëkënd.</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Vendnd. e panjohur</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Nuk mund ta përdorni këtë mënyrë kur është lidhur një kabllo HDMI. Shkëputni kabllon.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Për të parë skedarin në 3D, përdor një pajisje që mbështet 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Gabim i HDMI-së</string>
+    <string name="cam_strings_fast_capturing_finish_confirmation_title_txt">Mën. e hapjes së shpejtë</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Për të parë një foto në 3D, lidh. telef. me një TV me funksionin 3D duke përdorur HDMI ose duke trokitur mbi butonin Riprodho në.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Për të parë këtë foto në 3D, lidheni telefonin me një televizor me funksionin 3D duke trokitur lehtë në butonin Riprodho në.</string>
+</resources>

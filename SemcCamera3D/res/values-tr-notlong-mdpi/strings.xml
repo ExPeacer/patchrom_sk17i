@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Çekim modu tanıma</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_landscape_txt">Yatay</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Arka plan ışığı</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Arka plan ışığı dikey</string>
+    <string name="cam_strings_scenes_txt">Sahneler</string>
+    <string name="cam_strings_light_txt">Fotoğraf ışığı</string>
+    <string name="cam_strings_touch_capturing_txt">Dokunmatik çekim</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Dokunma ile yakalama</string>
+    <string name="cam_strings_save_destination_txt">Veri depola. birimi</string>
+    <string name="cam_strings_save_destination_sd_txt">SD kartı</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Smile Shutter™ etkin olduğunda kullanılamaz</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">3D dosy. da</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">"3B görüntü izlemek için HDMI kablosu ile 3B TV'ye bağlanın"</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Çok Açılı görüntü. göst.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Bu mod HDMI kablosu bağlıyken kullanılamaz. Lütfen kabloyu çıkarın.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Bu dosyayı 3B görüntülemek için 3B destekli cihaz kullanın.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI hatası</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Çekim modu tanıma</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Bellek dolu. Bellekten bazı dosyaları silin.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">"Bir fotoğrafı 3D olarak görüntülemek için HDMI kullanarak veya Şurada Çal düğmesine dokunarak telefonunuzu 3D TV'ye bağlayın."</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">"Bu fotoğrafı 3D görüntülemek için Şurada çal düğmesine dokunarak telefonunuzu 3D bir TV'ye bağlayın."</string>
+</resources>

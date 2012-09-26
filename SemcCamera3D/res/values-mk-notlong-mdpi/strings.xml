@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Препознавање сцена</string>
+    <string name="cam_strings_shortcut_normal_txt">Нормално</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Портрет со позад. осветл.</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Недостапно кога е активен Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">И 3Д дат.</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Само оваа датот.</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Навал. го телеф. десно или лево</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">За да гледате 3D слика, поврзете се на 3D ТВ со HDMI кабел</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Прикажи повеќеаг. сл.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Не може да се користи овој режим со поврзан кабел HDMI. Исклучете го кабелот.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">За прик. на оваа дат. во 3Д, корист. уред што поддрж. 3Д.</string>
+    <string name="cam_strings_wireless_gps_explanatory_title_txt">Како да добиете локација</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Грешка на HDMI</string>
+    <string name="cam_3d_strings_dialog_3d_output_title_txt">Достап. е далеч. управув.</string>
+    <string name="cam_strings_fast_capturing_allowance_title_txt">Постави брзо стартување</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">За прик. на фотог. во 3Д, поврзете го својот телеф. со 3Д телев. со корис. HDMI или со допир. на копч. Репродуцирај на уред.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">За прикаж. на оваа фотог. во 3Д, поврзете го својот телефон со 3Д телевизор со допирање на копчето Репродуцирај на уред.</string>
+</resources>

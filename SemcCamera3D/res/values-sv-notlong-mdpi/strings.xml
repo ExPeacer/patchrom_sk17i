@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Motivigenkänning</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_landscape_txt">Liggande</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Bakgrundsbelysning</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Bakgrundsbelyst porträtt</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_txt">Mörkermotiv</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_portrait_txt">Mörkerporträtt</string>
+    <string name="cam_strings_focus_mode_face_detection_txt">Ansiktsigenkänning</string>
+    <string name="cam_strings_exposure_level_txt">Exponerings-värde</string>
+    <string name="cam_strings_white_balance_incandescent_txt">Starkt ljus</string>
+    <string name="cam_strings_geotagging_txt">Geotagg</string>
+    <string name="cam_strings_touch_capturing_txt">Fota genom att peka</string>
+    <string name="cam_strings_touch_capturing_screen_button_txt">Virtuellt tangentbord</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Rör vid skärm för att ta kort</string>
+    <string name="cam_strings_save_destination_ims_txt">Internlagring</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">Det går inte att zooma med den framåtvända kameran</string>
+    <string name="cam_strings_advanced_setting_geo_tag_return_txt">Tryck på Bakåt för att gå tillbaka till kameran</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Inte tillgängligt när Smile Shutter™ är aktivt</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Bara den här filen</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Luta telefonen höger eller vänster</string>
+    <string name="cam_3d_strings_shooting_direction_guide_txt">Tryck på ikon till vänster och ändra riktning</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Det går inte att använda detta läge med en HDMI-kabel ansluten. Ta ut kabeln.</string>
+    <string name="cam_status_remained_min">%1$d min</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-fel</string>
+</resources>

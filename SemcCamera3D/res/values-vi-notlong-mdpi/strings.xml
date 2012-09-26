@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Nhận diện cảnh</string>
+    <string name="cam_strings_shortcut_normal_txt">Bình thường</string>
+    <string name="cam_strings_light_txt">Ánh sáng ảnh</string>
+    <string name="cam_strings_self_timer_txt">Hẹn giờ</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Không sử dụng được khi Smile Shutter™đang bật</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Nghiêng ĐT sang phải hoặc trái</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Xem h.ảnh Nhiều góc</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Đ.điểm ko xác định</string>
+    <string name="cam_3d_strings_shooting_guide_press_key_txt">Bấm phím camera rồi xoay từ từ camera</string>
+    <string name="cam_3d_strings_shooting_guide_touch_cap_txt">Chạm vào kính ngắm rồi xoay từ từ camera</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Không thể sử dụng chế độ này bằng kết nối cáp HDMI. Hãy rút cáp ra.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Để xem tập tin này ở chế độ 3D, sử dụng thiết bị hỗ trợ 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Lỗi HDMI</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Bộ nhớ đầy. Xoá một số tập tin khỏi bộ nhớ.</string>
+</resources>

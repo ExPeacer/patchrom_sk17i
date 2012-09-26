@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Peizažo atpažinimas</string>
+    <string name="cam_strings_shortcut_normal_txt">Įprastas</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portretas su foniniu apšviet.</string>
+    <string name="cam_strings_touch_capturing_txt">Fotografav. liečiant ekr.</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Negalima, kai aktyvi „Smile Shutter™“</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Pakreipkite tel. į dešinę arba į kairę</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Norėdami peržiūr. 3D vzd., HDMI laidu prijunkite prie 3D TV</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Perž. vaizdą keliais k.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Negalima naudoti šio režimo, kai prijungtas HDMI laidas. Atjunkite laidą.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI klaida</string>
+    <string name="cam_strings_fast_capturing_allowance_title_txt">Nustatyti sparčiąją paleistį</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Jei nuotrauką norite peržiūrėti 3D formatu, prijunkite telefoną prie 3D TV naudodami HDMI arba bakstelėdami „Leisti prietaise“.</string>
+</resources>

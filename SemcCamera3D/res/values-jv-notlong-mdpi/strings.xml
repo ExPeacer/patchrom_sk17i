@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Pangenalan sawangan</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_txt">Pemandangan</string>
+    <string name="cam_strings_self_timer_txt">Timer otomatis</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ora kasedhiya yen Smile Shutter™ aktif</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Miringake telpon nengen/ngiwa</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Kgo ndeleng gbr 3D, sambung nyang TV 3D karo kabel HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Dleng gbr Multi Sudhut</string>
+    <string name="cam_3d_strings_menu_details_date_unknown_txt">Tanggal ora ngerti</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Ora bisa nggunakake mode iki yen kabel HDMI disambungake. Jabut kabel luwih dhisik.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Kgo ndeleng file iki ing 3D, gunakake piranti sing ndhukung 3D.</string>
+    <string name="cam_status_remained_num">%1$d menit</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI salah</string>
+    <string name="cam_strings_button_to_deny_txt">Aja idini</string>
+</resources>

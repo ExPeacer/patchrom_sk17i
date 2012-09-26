@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Recunoaştere situaţie</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Lumină de fundal</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portret cu lumină de fundal</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Captură la atingere</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Nu este disponibil(ă) în timp ce opţiunea Smile Shutter™ este activată</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Şi foto multiunghi</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">Şi fişier 3D</string>
+    <string name="cam_3d_strings_album_3d_panorama_txt">3D Sweep Panorama</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Înclinaţi tel. spre dr. sau spre stg.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Pt. a viz. imag. 3D, stab. o conex. la un TV 3D prin cablu HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Viz. img. multiunghiul.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Imposibil de utilizat acest mod cu un cablu HDMI conectat. Scoateţi cablul.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Pt. a viz. acest fişier în 3D, utilizaţi un dispoz. care acceptă 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Eroare HDMI</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">Recunoaştere situaţie</string>
+    <string name="cam_strings_error_storage_changing_to_internal_txt">Nicio cartelă SD disponibilă. Locaţie de salvare implicită schimbată cu stocarea internă.</string>
+</resources>

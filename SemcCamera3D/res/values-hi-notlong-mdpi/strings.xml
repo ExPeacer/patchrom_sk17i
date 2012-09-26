@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">दृश्य पहचान</string>
+    <string name="cam_strings_shortcut_normal_txt">सामान्य</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_portrait_txt">रात्रि पोट्रेट</string>
+    <string name="cam_strings_self_timer_txt">स्वतः-टाइमर</string>
+    <string name="cam_strings_memory_full_save_failed_txt">रक्षित नहीं जा सकी। मेमोरी भर गई है।</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Smile Shutter™ सक्रिय होने पर परिवर्तनीय नहीं है</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">HDMI केबल कनेक्ट होने पर, इस मोड का उपयोग नहीं कर सकते। कृपया केबल अनप्लग करें।</string>
+    <string name="cam_status_remained_min">%1$d मिनट</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI त्रुटि</string>
+    <string name="cam_strings_capturing_mode_front_camera_short_txt">अग्र कैमरा</string>
+    <string name="cam_strings_error_memory_ims_full_txt">मेमोरी भर गई है। मेमोरी से कुछ फाइलें हटाएं।</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">फोटो को 3D में देखने हेतु, HDMI के उपयोग द्वारा या डिवाइस बटन पर चलाएं टैप करके अपना फोन 3D टेलीविजन से कनेक्ट करें।</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">इस फोटो को 3D में देखने के लिए, डिवाइस बटन पर चलाएं टैप करके अपना फोन 3D टेलीविजन से कनेक्ट करें।</string>
+</resources>

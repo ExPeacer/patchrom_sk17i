@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Témafelismerés</string>
+    <string name="cam_strings_shortcut_normal_txt">Normál</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Háttérvilágítás</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Arckép háttérvilágítással</string>
+    <string name="cam_strings_scenes_txt">Motívumprogramok</string>
+    <string name="cam_strings_geotagging_txt">Földrajzi címke</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Nem érhető el, amíg a Smile Shutter™ aktív</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Többszögű kép is</string>
+    <string name="cam_3d_strings_shortcut_3d_sweep_panorama_txt">3D panorámapásztázás</string>
+    <string name="cam_3d_strings_shortcut_album_3d_sweep_panorama_txt">3D panorámapásztázás</string>
+    <string name="cam_3d_strings_album_3d_panorama_txt">3D panorámapásztázás</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Döntse a telefont jobbra v. balra</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">A 3D kép megnézéséhez csatl. 3D tévéhez egy HDMI-kábellel</string>
+    <string name="cam_3d_strings_error_zoom_3d_sweep_panorama_txt">A zoom nem használható a 3D panorámapásztázáskor</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Többlátószögű kép</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Ez a mód nem használható csatlakoztatott HDMI-kábellel. Húzza ki a kábelt.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Csak 3D-t tám. készüléken lehet 3D-ben megnézni ezt a fájlt.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-hiba</string>
+    <string name="cam_3d_strings_3d_sweep_panorama_short_txt">3D panorámapásztázás</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Ha 3D módban szeretne fényképet megnézni, HDMI-kábellel v. a Leját. eszközön gombra koppintva csatlak. a telefont 3D tévéhez.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Ha 3D módban szeretné a fényképet megnézni, a Leját. eszközön gombra koppintva csatlakoztassa a telefont egy 3D tévéhez.</string>
+</resources>

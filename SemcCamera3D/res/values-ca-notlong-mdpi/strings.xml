@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">"Reconeixement d'escena"</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_self_timer_txt">Temporitzador</string>
+    <string name="cam_strings_focus_mode_txt">Mode enfocament</string>
+    <string name="cam_strings_save_destination_txt">Emmagatzematge dades</string>
+    <string name="cam_strings_save_destination_ims_txt">Emmagatzematge intern</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">No està disponible quan Smile Shutter™ està actiu</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">També angle múlt.</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">I fitxer 3D</string>
+    <string name="cam_3d_strings_dialog_delete_one_category_file_txt">Sols aquest fitxer</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Inclineu telèfon a dreta o esquerra</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Per veure imatges en 3D, connect. a 3D TV amb cable HDMI</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Visualit imat múl ang</string>
+    <string name="cam_3d_strings_menu_details_location_unknown_txt">Ubicació desconeg.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Aquest mode de captura no permet compatibilitat amb sortida HDMI. Desendolleu el cable HDMI.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Per visualitzar el fitxer en 3D, utilitzeu un dispos. 3D admès.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Error HDMI</string>
+    <string name="cam_strings_error_memory_ims_full_txt">La memòria és plena. Suprimiu-ne uns quants fitxers.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Per visualitzar una foto en 3D, connecteu el telèfon a un televisor 3D mitjançant un cable HDMI o el botó Reprodueix a dispositiu.</string>
+</resources>

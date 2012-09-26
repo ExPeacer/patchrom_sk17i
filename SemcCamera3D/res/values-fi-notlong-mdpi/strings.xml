@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Kuvausohjelman tunnist.</string>
+    <string name="cam_strings_shortcut_normal_txt">Normaali</string>
+    <string name="cam_strings_shortcut_front_camera_txt">Edustakamera</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">Taustavalo</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Taustavalaistu muotokuva</string>
+    <string name="cam_strings_scenes_txt">Paikat</string>
+    <string name="cam_strings_touch_capturing_txt">Kuvaus koskettam.</string>
+    <string name="cam_strings_touch_capturing_viewfinder_txt">Kosketus-kuvaus</string>
+    <string name="cam_strings_zoom_unavailable_front_cam_txt">Ei voi zoomata edustakamerassa</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ei vaihdettavissa, kun Smile Shutter™ -hymysuljin on aktiivinen</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Kallista puhelinta oik. tai vasemm.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Katso 3D-kuva liittämällä 3D-TV:hen HDMI-kaapelin avulla</string>
+    <string name="cam_3d_strings_menu_details_date_unknown_txt">Pvm tuntematon</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Tätä tilaa ei voi käyttää, kun HDMI-kaapeli on liitetty. Irrota kaapeli.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Näytä tiedosto 3D-muodossa käyttämällä 3D-tuettua laitetta.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI-virhe</string>
+    <string name="cam_strings_capturing_mode_front_camera_short_txt">Edustakamera</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Jos haluat katsella valokuvaa kolmiulotteisesti, liitä puhelin kolmi-ulotteiseen TV:hen HDMI-kaapelilla / Toista laitteella -painikkeella.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Jos haluat katsella valokuvaa kolmiulotteisesti, liitä puhelin kolmi-ulotteiseen TV:hen napauttamalla Toista laitteella -painiketta.</string>
+    <string name="cam_strings_error_storage_changing_to_internal_txt">SD-kortti ei ole käytettävissä. Oletustallennussijainniksi vaihdettiin sisäinen tallennustila.</string>
+</resources>

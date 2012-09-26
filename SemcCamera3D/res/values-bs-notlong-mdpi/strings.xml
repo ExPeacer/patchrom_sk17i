@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Prepoznavanje scena</string>
+    <string name="cam_strings_shortcut_normal_txt">Normalno</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">Portret sa pozad. svjetlom</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Nije moguće mijenjati dok je aktivan Smile Shutter™</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">I višestr. zakren.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Za prikazivanje 3D slike povežite 3D TV sa HDMI kablom</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Prikaži Multi Angle sliku</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Nije moguće koristiti ovaj režim kad je povezan HDMI kabl. Izvucite kabl.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Da biste prikazali ovu dat. u 3D, koristite uređ. koji podrž. 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI greška</string>
+</resources>

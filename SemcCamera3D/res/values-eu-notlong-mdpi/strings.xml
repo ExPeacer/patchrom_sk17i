@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Eszena hautematea</string>
+    <string name="cam_strings_shortcut_normal_txt">Arrunta</string>
+    <string name="cam_strings_touch_capturing_txt">Ukitu ateratzeko</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Ezin dago erabilgarri Smile Shutter™ aktibatuta dagoenean</string>
+    <string name="cam_3d_strings_dialog_delete_include_ma_txt">Angelu anitza ere</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Okertu eskuinera edo ezkerrera</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Konektatu tel. + 3D TBa HDMI bidez</string>
+    <string name="cam_3d_strings_menu_go_to_ma_player_txt">Ik. angelu anitzekoa</string>
+    <string name="cam_3d_strings_dialog_delete_ma_with_3d_txt">Argazki angelu anitzaren 3D irudia dago. Biak ezabatu?</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Ezin da modu hau erabili HDMI kablea konektatuta dela. Deskonektatu kablea.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Fitxategi hau 3D-an ikusteko, erabili 3D onartzen duen gailua.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI errorea</string>
+    <string name="cam_strings_error_memory_ims_full_txt">Memoria beteta dago. Ezabatu fitxategi batzuk memoriatik.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">Argazkia 3Dn ikusteko, konektatu kamera 3D telebista batera, HDMI kablea erabiliz edo Erreproduzitu gailuan botoia punteatuta.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Argazkia 3Dn ikusteko, konektatu telefonoa 3D telebista batera, Erreproduzitu gailuan botoia punteatuta.</string>
+</resources>

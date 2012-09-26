@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Scene recognition</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Not available when Smile Shutter™ is active</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">"Cannot use this mode with an HDMI cable connected.  Please unplug the cable."</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI error</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_txt">To view a photo in 3D, connect your phone to a 3D TV by using an HDMI connector or tapping Play on device button.</string>
+</resources>

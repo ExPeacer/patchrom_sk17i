@@ -118,7 +118,7 @@
     invoke-super {p0}, Lcom/sonyericsson/android/camera/capturingmodeselector/CapturingModeSelectorButtonView;->initBackground()V
 
     .line 109
-    const v0, 0x7f02009b
+    const v0, 0x7f0200a0
 
     invoke-virtual {p0, v0}, Lcom/sonyericsson/android/camera/capturingmodeselector/CapturingModeView;->setBackgroundImageDrawable(I)V
 

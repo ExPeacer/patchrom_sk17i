@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">장면 인식</string>
+    <string name="cam_strings_shortcut_normal_txt">일반</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_txt">백라이트</string>
+    <string name="cam_strings_scenes_auto_recog_backlight_portrait_txt">인물(백라이트)</string>
+    <string name="cam_strings_scenes_auto_recog_twilight_portrait_txt">야간 인물</string>
+    <string name="cam_strings_touch_capturing_txt">화면 터치</string>
+    <string name="cam_strings_store_fail_txt">저장 할 수 없습니다.</string>
+    <string name="cam_strings_advanced_setting_geo_tag_return_txt">카메라로 돌아가려면 뒤로를 누르세요.</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Smile Shutter™가 활성화되어 있는 동안에는 사용할 수 없음</string>
+    <string name="cam_3d_strings_dialog_delete_include_3d_txt">3D파일포함</string>
+    <string name="cam_3d_strings_shortcut_3d_sweep_panorama_txt">3D스위프 파노라마</string>
+    <string name="cam_3d_strings_shortcut_album_txt">3D앨범</string>
+    <string name="cam_3d_strings_shortcut_album_3d_sweep_panorama_txt">3D스위프 파노라마</string>
+    <string name="cam_3d_strings_album_3d_panorama_txt">3D스위프 파노라마</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">3D이미지를 보려면HDMI케이블로 3D TV에 연결</string>
+    <string name="cam_3d_strings_error_zoom_3d_sweep_panorama_txt">3D스위프 파노라마에서 확대/축소할 수 없음</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">HDMI케이블이 연결된 상태에서는 이 모드를 사용할 수 없습니다. 케이블을 분리하세요.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">HDMI오류</string>
+    <string name="cam_3d_strings_album_application_name_txt">3D앨범</string>
+    <string name="cam_strings_capturing_mode_scene_recognition_short_txt">장면 인식</string>
+    <string name="cam_3d_strings_3d_sweep_panorama_short_txt">3D스위프 파노라마</string>
+    <string name="cam_3d_strings_camera_application_name_txt">3D카메라</string>
+    <string name="cam_3d_strings_error_application_busy_txt">3D카메라를 실행하려면 잠시 기다려 주세요.</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">이 사진을3D로 보려면 장치에서 재생 버튼을 눌러 휴대폰을3D TV에 연결하십시오.</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_shortcut_scene_recognition_txt">Recoñecemento escena</string>
+    <string name="cam_strings_shortcut_normal_txt">Normal</string>
+    <string name="cam_strings_save_destination_ims_txt">Almacenamento interno</string>
+    <string name="cam_strings_unavailable_in_smile_capture_txt">Non dispoñible cando Smile Shutter™ está activo</string>
+    <string name="cam_3d_strings_album_multi_angle_view_guide_txt">Incline teléfono dereita/esquerda</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_txt">Conecte móbil a tv 3D cun cable HDMI para ver imaxe en 3D</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_txt">Non se pode usar este modo se hai un cable HDMI conectado. Desenchufe o cable.</string>
+    <string name="cam_3d_strings_album_3d_panorama_view_guide_no_hdmi_txt">Para ver este ficheiro en 3D, use dispositivo que admita 3D.</string>
+    <string name="cam_3d_strings_error_capturing_during_connecting_tv_title_txt">Erro HDMI</string>
+    <string name="cam_3d_strings_3d_panorama_player_guide_dlna_no_hdmi_txt">Para ver esta foto en 3D, conecte o teléfono a un televisor 3D pulsando o botón Reproducir en do dispositivo.</string>
+</resources>
