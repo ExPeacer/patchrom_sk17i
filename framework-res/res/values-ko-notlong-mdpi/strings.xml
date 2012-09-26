@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mmcc_authentication_reject">USIM카드가 허용되지 않음</string>
+    <string name="unregistered_sim">등록되지 않은USIM카드</string>
+    <string name="invalidPin">4~8자리숫자의PIN을입력하세요.</string>
+    <string name="BaICMmi">수신전화 제한</string>
+    <string name="BaOCMmi">발신전화 제한</string>
+    <string name="BaOICMmi">국제 발신전화 제한</string>
+    <string name="BaOICxHMmi">국제 발신전화 제한(원래 사용 국가 제외)</string>
+    <string name="BaICrMmi">로밍 시 수신전화 제한</string>
+    <string name="BaAllMmi">모든 착발신 제한</string>
+    <string name="BaMOMmi">모든 발신전화 제한</string>
+    <string name="BaMTMmi">모든 수신전화 제한</string>
+</resources>

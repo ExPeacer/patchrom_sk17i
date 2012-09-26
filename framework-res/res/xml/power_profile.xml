@@ -4,7 +4,7 @@
     <item name="screen.on">48</item>
     <item name="bluetooth.active">4.6</item>
     <item name="bluetooth.on">1.2</item>
-    <item name="screen.full">140</item>
+    <item name="screen.full">120</item>
     <item name="wifi.on">5</item>
     <item name="wifi.active">120</item>
     <item name="wifi.scan">5</item>
@@ -36,5 +36,5 @@
         <value>89.2</value>
         <value>99.0</value>
     </array>
-    <item name="battery.capacity">1500</item>
+    <item name="battery.capacity">1200</item>
 </device>

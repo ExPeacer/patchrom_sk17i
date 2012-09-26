@@ -5485,6 +5485,7 @@
     <public type="drawable" name="ic_clear_normal" id="0x010802c3" />
     <public type="drawable" name="ic_clear_search_api_disabled_holo_light" id="0x010802c4" />
     <public type="drawable" name="ic_clear_search_api_holo_light" id="0x010802c5" />
+    <public type="drawable" name="ic_commit" id="0x010802c6" />
     <public type="drawable" name="ic_commit_search_api_holo_dark" id="0x010802c7" />
     <public type="drawable" name="ic_commit_search_api_holo_light" id="0x010802c8" />
     <public type="drawable" name="ic_contact_picture" id="0x010802c9" />
@@ -5640,7 +5641,6 @@
     <public type="drawable" name="indicator_code_lock_point_area_default_holo" id="0x01080371" />
     <public type="drawable" name="indicator_code_lock_point_area_green" id="0x01080372" />
     <public type="drawable" name="indicator_code_lock_point_area_green_holo" id="0x01080373" />
-    <public type="drawable" name="indicator_code_lock_point_area_red" id="0x01080374" />
     <public type="drawable" name="indicator_code_lock_point_area_red_holo" id="0x01080375" />
     <public type="drawable" name="indicator_input_error" id="0x01080376" />
     <public type="drawable" name="jog_dial_arrow_long_left_green" id="0x0108037a" />
@@ -5971,14 +5971,9 @@
     <public type="drawable" name="semc_btn_dialog_selected" id="0x0108052e" />
     <public type="drawable" name="semc_btn_dropdown_disabled" id="0x01080530" />
     <public type="drawable" name="semc_btn_dropdown_disabled_focused" id="0x01080531" />
-    <public type="drawable" name="semc_btn_dropdown_disabled_focused_rtl" id="0x01080532" />
-    <public type="drawable" name="semc_btn_dropdown_disabled_rtl" id="0x01080533" />
     <public type="drawable" name="semc_btn_dropdown_normal" id="0x01080534" />
-    <public type="drawable" name="semc_btn_dropdown_normal_rtl" id="0x01080535" />
     <public type="drawable" name="semc_btn_dropdown_pressed" id="0x01080536" />
-    <public type="drawable" name="semc_btn_dropdown_pressed_rtl" id="0x01080537" />
     <public type="drawable" name="semc_btn_dropdown_selected" id="0x01080538" />
-    <public type="drawable" name="semc_btn_dropdown_selected_rtl" id="0x01080539" />
     <public type="drawable" name="semc_btn_radio_off" id="0x01080541" />
     <public type="drawable" name="semc_btn_radio_off_pressed" id="0x01080542" />
     <public type="drawable" name="semc_btn_radio_off_selected" id="0x01080543" />
@@ -6188,6 +6183,7 @@
     <public type="drawable" name="semc_sliding_tab_vibrate_pressed" id="0x0108062c" />
     <public type="drawable" name="semc_soundpicker_play" id="0x0108062d" />
     <public type="drawable" name="semc_soundpicker_stop" id="0x0108062e" />
+    <public type="drawable" name="semc_stat_sys_warning_pressed" id="0x0108062f" />
     <public type="drawable" name="semc_tab_active_bg" id="0x01080630" />
     <public type="drawable" name="semc_tab_focus" id="0x01080633" />
     <public type="drawable" name="semc_tab_focus_bar_left" id="0x01080634" />
@@ -6319,28 +6315,18 @@
     <public type="drawable" name="stat_notify_wifi_in_range" id="0x010806c0" />
     <public type="drawable" name="stat_sys_adb" id="0x010806c1" />
     <public type="drawable" name="stat_sys_battery_0" id="0x010806c3" />
-    <public type="drawable" name="stat_sys_battery_10" id="0x010806c4" />
     <public type="drawable" name="stat_sys_battery_100" id="0x010806c5" />
     <public type="drawable" name="stat_sys_battery_15" id="0x010806c6" />
-    <public type="drawable" name="stat_sys_battery_20" id="0x010806c7" />
     <public type="drawable" name="stat_sys_battery_28" id="0x010806c8" />
-    <public type="drawable" name="stat_sys_battery_40" id="0x010806c9" />
     <public type="drawable" name="stat_sys_battery_43" id="0x010806ca" />
     <public type="drawable" name="stat_sys_battery_57" id="0x010806cb" />
-    <public type="drawable" name="stat_sys_battery_60" id="0x010806cc" />
     <public type="drawable" name="stat_sys_battery_71" id="0x010806cd" />
-    <public type="drawable" name="stat_sys_battery_80" id="0x010806ce" />
     <public type="drawable" name="stat_sys_battery_85" id="0x010806cf" />
     <public type="drawable" name="stat_sys_battery_charge_anim0" id="0x010806d1" />
-    <public type="drawable" name="stat_sys_battery_charge_anim1" id="0x010806d2" />
     <public type="drawable" name="stat_sys_battery_charge_anim100" id="0x010806d3" />
     <public type="drawable" name="stat_sys_battery_charge_anim15" id="0x010806d4" />
-    <public type="drawable" name="stat_sys_battery_charge_anim2" id="0x010806d5" />
     <public type="drawable" name="stat_sys_battery_charge_anim28" id="0x010806d6" />
-    <public type="drawable" name="stat_sys_battery_charge_anim3" id="0x010806d7" />
-    <public type="drawable" name="stat_sys_battery_charge_anim4" id="0x010806d8" />
     <public type="drawable" name="stat_sys_battery_charge_anim43" id="0x010806d9" />
-    <public type="drawable" name="stat_sys_battery_charge_anim5" id="0x010806da" />
     <public type="drawable" name="stat_sys_battery_charge_anim57" id="0x010806db" />
     <public type="drawable" name="stat_sys_battery_charge_anim71" id="0x010806dc" />
     <public type="drawable" name="stat_sys_battery_charge_anim85" id="0x010806dd" />
@@ -6413,6 +6399,7 @@
     <public type="drawable" name="sym_app_on_sd_unavailable_icon" id="0x01080758" />
     <public type="drawable" name="sym_keyboard_delete" id="0x01080759" />
     <public type="drawable" name="sym_keyboard_delete_dim" id="0x0108075a" />
+    <public type="drawable" name="sym_keyboard_delete_holo" id="0x0108075b" />
     <public type="drawable" name="sym_keyboard_feedback_delete" id="0x0108075c" />
     <public type="drawable" name="sym_keyboard_feedback_ok" id="0x0108075d" />
     <public type="drawable" name="sym_keyboard_feedback_return" id="0x0108075e" />
@@ -6531,8 +6518,8 @@
     <public type="drawable" name="APKTOOL_DUMMY_00cd" id="0x010800cd" />
     <public type="drawable" name="APKTOOL_DUMMY_00ce" id="0x010800ce" />
     <public type="drawable" name="APKTOOL_DUMMY_00cf" id="0x010800cf" />
-    <public type="drawable" name="APKTOOL_DUMMY_02c6" id="0x010802c6" />
     <public type="drawable" name="APKTOOL_DUMMY_02d1" id="0x010802d1" />
+    <public type="drawable" name="APKTOOL_DUMMY_0374" id="0x01080374" />
     <public type="drawable" name="APKTOOL_DUMMY_03b6" id="0x010803b6" />
     <public type="drawable" name="APKTOOL_DUMMY_0446" id="0x01080446" />
     <public type="drawable" name="APKTOOL_DUMMY_0447" id="0x01080447" />
@@ -6543,12 +6530,26 @@
     <public type="drawable" name="APKTOOL_DUMMY_0495" id="0x01080495" />
     <public type="drawable" name="APKTOOL_DUMMY_04c4" id="0x010804c4" />
     <public type="drawable" name="APKTOOL_DUMMY_04c5" id="0x010804c5" />
-    <public type="drawable" name="APKTOOL_DUMMY_062f" id="0x0108062f" />
+    <public type="drawable" name="APKTOOL_DUMMY_0532" id="0x01080532" />
+    <public type="drawable" name="APKTOOL_DUMMY_0533" id="0x01080533" />
+    <public type="drawable" name="APKTOOL_DUMMY_0535" id="0x01080535" />
+    <public type="drawable" name="APKTOOL_DUMMY_0537" id="0x01080537" />
+    <public type="drawable" name="APKTOOL_DUMMY_0539" id="0x01080539" />
     <public type="drawable" name="APKTOOL_DUMMY_06b1" id="0x010806b1" />
     <public type="drawable" name="APKTOOL_DUMMY_06b2" id="0x010806b2" />
     <public type="drawable" name="APKTOOL_DUMMY_06b3" id="0x010806b3" />
     <public type="drawable" name="APKTOOL_DUMMY_06b4" id="0x010806b4" />
     <public type="drawable" name="APKTOOL_DUMMY_06b6" id="0x010806b6" />
+    <public type="drawable" name="APKTOOL_DUMMY_06c4" id="0x010806c4" />
+    <public type="drawable" name="APKTOOL_DUMMY_06c7" id="0x010806c7" />
+    <public type="drawable" name="APKTOOL_DUMMY_06c9" id="0x010806c9" />
+    <public type="drawable" name="APKTOOL_DUMMY_06cc" id="0x010806cc" />
+    <public type="drawable" name="APKTOOL_DUMMY_06ce" id="0x010806ce" />
+    <public type="drawable" name="APKTOOL_DUMMY_06d2" id="0x010806d2" />
+    <public type="drawable" name="APKTOOL_DUMMY_06d5" id="0x010806d5" />
+    <public type="drawable" name="APKTOOL_DUMMY_06d7" id="0x010806d7" />
+    <public type="drawable" name="APKTOOL_DUMMY_06d8" id="0x010806d8" />
+    <public type="drawable" name="APKTOOL_DUMMY_06da" id="0x010806da" />
     <public type="drawable" name="APKTOOL_DUMMY_06df" id="0x010806df" />
     <public type="drawable" name="APKTOOL_DUMMY_06e0" id="0x010806e0" />
     <public type="drawable" name="APKTOOL_DUMMY_06e1" id="0x010806e1" />
@@ -6598,7 +6599,6 @@
     <public type="drawable" name="APKTOOL_DUMMY_0739" id="0x01080739" />
     <public type="drawable" name="APKTOOL_DUMMY_073a" id="0x0108073a" />
     <public type="drawable" name="APKTOOL_DUMMY_073c" id="0x0108073c" />
-    <public type="drawable" name="APKTOOL_DUMMY_075b" id="0x0108075b" />
     <public type="drawable" name="APKTOOL_DUMMY_07b5" id="0x010807b5" />
     <public type="drawable" name="APKTOOL_DUMMY_07d0" id="0x010807d0" />
     <public type="drawable" name="APKTOOL_DUMMY_07d1" id="0x010807d1" />

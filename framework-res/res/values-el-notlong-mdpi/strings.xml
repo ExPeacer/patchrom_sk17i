@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="VideoView_error_title">Αδύνατη η αναπ. βίντεο</string>
+    <string name="mmcc_illegal_me">Το τηλέφωνο δεν επιτρέπεται MM #6</string>
+    <string name="global_actions_airplane_mode_off_status">Η λειτουργία πτήσης είναι ανενεργή</string>
+    <string name="emergency_call_dialog_number_for_display">Αρ. έκτακτ. ανάγκης</string>
+    <string name="adb_active_notification_message">Επιλ. για απενεργ. του εντοπισμού σφαλμ.USB.</string>
+    <string name="general_dialpad_voicemail_txt">Τηλεφ/τής</string>
+    <string name="global_action_screenshot_txt">Λήψη στιγμιότ. οθόνης</string>
+    <string name="BaICMmi">Αποκλεισμός εισερχόμενης κλήσης</string>
+    <string name="BaOCMmi">Αποκλεισμός εξερχόμενης κλήσης</string>
+    <string name="BaOICMmi">Αποκλεισμός εξερχόμενης διεθνούς κλήσης</string>
+    <string name="BaOICxHMmi">Αποκλεισμός εξερχόμενης διεθνούς κλήσης (εκτός από τη χώρα σας)</string>
+    <string name="BaICrMmi">Αποκλεισμός εισερχόμενης κλήσης κατά την περιαγωγή</string>
+    <string name="BaAllMmi">Όλοι οι αποκλεισμοί κλήσεων</string>
+    <string name="BaMOMmi">Αποκλεισμός όλων των εξερχόμενων κλήσεων</string>
+    <string name="BaMTMmi">Αποκλεισμός όλων των εισερχόμενων κλήσεων</string>
+    <string name="policydesc_passwordRecovery">Χρήση του κωδικού πρόσβασης ανάκτησης για το ξεκλείδωμα του τηλεφώνου σας σε περίπτωση που ξεχάσετε τον κωδικό πρόσβασης</string>
+</resources>

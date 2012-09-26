@@ -14,7 +14,7 @@
     </LinearLayout>
     <Space android:layout_gravity="fill" />
     <Button android:textSize="@dimen/keyguard_lockscreen_status_line_font_size" android:layout_gravity="center_horizontal" android:id="@id/emergencyCallButton" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginRight="16.0dip" android:text="@string/lockscreen_emergency_call" android:drawableLeft="@drawable/lockscreen_emergency_button" android:drawablePadding="4.0dip" style="?android:attr/buttonBarButtonStyle" />
-    <RelativeLayout android:layout_width="fill_parent" android:layout_height="302.0dip">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="230.0dip">
         <com.android.internal.widget.SlidingTabSemc android:orientation="horizontal" android:id="@id/unlock_widget" android:tag="Portrait" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="0.0dip" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:directionality="none" />
         <TextView android:textAppearance="?textAppearanceMedium" android:textSize="@dimen/keyguard_lockscreen_status_line_font_size" android:textColor="?textColorSecondary" android:ellipsize="marquee" android:gravity="center_horizontal" android:id="@id/carrier" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="12.0dip" android:singleLine="true" android:layout_alignParentBottom="true" />
     </RelativeLayout>
