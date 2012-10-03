@@ -16,9 +16,9 @@ local-modified-apps := SemcCamera3D CustomizedSettings MediaProvider
 
 local-modified-jars := 
 
-local-miui-modified-apps := MiuiGallery MiuiHome MiuiSystemUI Mms Phone Settings ThemeManager 
+local-miui-modified-apps := MiuiHome MiuiSystemUI Mms Phone Settings ThemeManager 
 
-local-miui-removed-apps  := MediaProvider
+local-miui-removed-apps  := MediaProvider MiuiGallery
 
 # All apps need to be removed from original ZIP file
 local-remove-apps   := AdobeFlashPlayer Conversations datatrafficswitch DigitalClockWidget \
