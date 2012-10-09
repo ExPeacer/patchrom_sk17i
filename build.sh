@@ -11,7 +11,7 @@ zip -r -q Settings.apk res/*
 cd ../../
 mv -f other/Settings/Settings.apk out/ota/system/app/Settings.apk
 echo Add GApps
-cp other/apk/* out/ZIP/system/app/
+cp other/apk/* out/ota/system/app/
 cd out/ota/
 echo Make ZIP
 zip -r -q ../../update_ExMIUIv4.zip *

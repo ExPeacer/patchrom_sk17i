@@ -47,7 +47,3 @@
     <favorite launcher:className="com.android.browser.BrowserActivity" launcher:packageName="com.android.browser" launcher:container="-101" launcher:x="2" launcher:y="0" />
     <favorite launcher:className="com.android.mms.ui.MmsTabActivity" launcher:packageName="com.android.mms" launcher:container="-101" launcher:x="3" launcher:y="0" />
 </favorites>
-
-
-10-09 06:50:45.692: I/ActivityManager(308): Displayed com.android.vending/.AssetBrowserActivity: +1s19ms (total +9m36s764ms)
-
