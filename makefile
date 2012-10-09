@@ -18,7 +18,7 @@ local-modified-jars :=
 
 local-miui-modified-apps := MiuiHome MiuiSystemUI Mms Phone Settings ThemeManager 
 
-local-miui-removed-apps  := MediaProvider MiuiGallery SuperMarket
+local-miui-removed-apps  := MediaProvider MiuiGallery SuperMarket InputMethod
 
 # All apps need to be removed from original ZIP file
 local-remove-apps   := AdobeFlashPlayer Conversations datatrafficswitch DigitalClockWidget \
@@ -65,8 +65,8 @@ include $(PORT_BUILD)/porting.mk
 # To define any local-target
 local-zip-misc:
 #	cp misc/com.google.android.maps.jar $(ZIP_DIR)/system/framework/
-	echo Add google apks
-	cp other/apk/* $(ZIP_DIR)/system/app/
+#	echo Add google apks
+#	cp other/apk/* $(ZIP_DIR)/system/app/
 	@echo Replace build.prop
 	cp other/build.prop $(ZIP_DIR)/system/build.prop
 	cp other/Lt18iSettings.apk $(ZIP_DIR)/system/app/Lt18iSettings.apk

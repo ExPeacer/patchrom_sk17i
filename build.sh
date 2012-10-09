@@ -1,4 +1,4 @@
-export PATH=$PATH:/home/user/MiCode/tools:/home/user/android-sdk-linux/tools
+export PATH=$PATH:/root/android/patchrom/tools:/opt/android-sdk/tools
 
 make fullota 
 echo Add ExMIUIv4 stuffs
@@ -10,5 +10,8 @@ cd other/Settings/
 zip -r -q Settings.apk res/*
 cd ../../
 mv -f other/Settings/Settings.apk out/ota/system/app/Settings.apk
+echo Add GApps
+cp other/apk/* out/ZIP/system/app/
 cd out/ota/
+echo Make ZIP
 zip -r -q ../../update_ExMIUIv4.zip *
