@@ -136,7 +136,7 @@ ro.skia.use_data_fonts=1
 
 ## All of the SHITS!
 
-ro.build.version.incremental=2.9.21
+ro.build.version.incremental=2.9.29
 
 windowsmgr.max_events_per_sec=240
 wifi.supplicant_scan_interval=60
