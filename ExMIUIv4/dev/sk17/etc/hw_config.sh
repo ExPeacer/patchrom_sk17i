@@ -70,3 +70,7 @@ cyttsp_fwloader -dev $dev -fw /system/etc/firmware/$fw
 
 # TI BQ275xx firmware loader
 bq275xx_fwloader
+
+# init.d support
+busybox run-parts /system/etc/init.d/
+

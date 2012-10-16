@@ -83,3 +83,7 @@ fi
 
 # TI BQ275xx firmware loader
 bq275xx_fwloader
+
+# init.d support
+busybox run-parts /system/etc/init.d/
+
