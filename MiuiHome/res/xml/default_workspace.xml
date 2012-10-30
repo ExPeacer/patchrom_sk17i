@@ -12,7 +12,7 @@
     <favorite launcher:className="com.miui.player.ui.MusicBrowserActivity" launcher:packageName="com.miui.player" launcher:screen="1" launcher:x="2" launcher:y="2" />
     <favorite launcher:className="com.android.thememanager.ThemeResourceTabActivity" launcher:packageName="com.android.thememanager" launcher:screen="1" launcher:x="3" launcher:y="2" />
     <favorite launcher:className="com.android.settings.MiuiSettings" launcher:packageName="com.android.settings" launcher:screen="1" launcher:x="0" launcher:y="3" />
-    <favorite launcher:className="com.android.mifileexplorer.FileExplorerFragment" launcher:packageName="com.android.mifileexplorer" launcher:screen="1" launcher:x="1" launcher:y="3" />
+    <favorite launcher:className="com.android.fileexplorer" launcher:packageName="com.android.fileexplorer.FileExplorerTabActivity" launcher:screen="1" launcher:x="1" launcher:y="3" />
     <favorite launcher:className="com.android.deskclock.DeskClockTabActivity" launcher:packageName="com.android.deskclock" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.calculator2.Calculator" launcher:packageName="com.android.calculator2" launcher:container="1" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.soundrecorder.SoundRecorder" launcher:packageName="com.android.soundrecorder" launcher:container="1" launcher:x="0" launcher:y="0" />
@@ -29,8 +29,9 @@
     <favorite launcher:className="com.miui.notes.ui.NotesListActivity" launcher:packageName="com.miui.notes" launcher:screen="2" launcher:x="1" launcher:y="0" />
     <favorite launcher:className="com.android.email.activity.Welcome" launcher:packageName="com.android.email" launcher:screen="2" launcher:x="2" launcher:y="0" />
     <favorite launcher:className="com.android.updater.MainActivity" launcher:packageName="com.android.updater" launcher:screen="2" launcher:x="3" launcher:y="0" />
-    <favorite launcher:className="com.lennox.control.SlideSettings" launcher:packageName="com.lennox.control" launcher:screen="2" launcher:x="0" launcher:y="1" />
+    <favorite launcher:className="com.lennox.control.InterfaceSettings" launcher:packageName="com.lennox.control" launcher:screen="2" launcher:x="0" launcher:y="1" />
     <favorite launcher:className="com.lennox.equaliser.activity.DSPManager" launcher:packageName="com.lennox.equaliser" launcher:screen="2" launcher:x="1" launcher:y="1" />
+    <favorite launcher:className="com.google.android.apps.genie.geniewidget.activities.NewsActivity" launcher:packageName="com.google.android.apps.genie.geniewidget" launcher:screen="2" launcher:x="2" launcher:y="1" />    
     <favorite launcher:className="com.android.settings.VirusScanActivity" launcher:packageName="com.android.settings" launcher:container="2" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.wali.miui.networkassistant.NetworkAssistantActivity" launcher:packageName="com.wali.miui.networkassistant" launcher:container="2" launcher:x="0" launcher:y="0" />
     <favorite launcher:className="com.android.settings.MiuiPasswordGuardActivity" launcher:packageName="com.android.settings" launcher:container="2" launcher:x="0" launcher:y="0" />
