@@ -18,7 +18,7 @@ local-modified-jars :=
 
 local-miui-modified-apps := MiuiHome MiuiSystemUI Mms Phone Settings ThemeManager 
 
-local-miui-removed-apps  := MediaProvider MiuiGallery SuperMarket FileExplorer
+local-miui-removed-apps  := MediaProvider MiuiGallery SuperMarket
 
 # All apps need to be removed from original ZIP file
 local-remove-apps   := AdobeFlashPlayer Conversations datatrafficswitch DigitalClockWidget \
