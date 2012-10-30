@@ -295,6 +295,10 @@
 
 .field private mTouchModeReset:Ljava/lang/Runnable;
 
+.field mTouchPaddingLeft:I
+
+.field mTouchPaddingRight:I
+
 .field private mTouchSlop:I
 
 .field private mTranscriptMode:I
@@ -304,10 +308,6 @@
 .field private mVelocityTracker:Landroid/view/VelocityTracker;
 
 .field mWidthMeasureSpec:I
-
-.field mTouchPaddingLeft:I
-
-.field mTouchPaddingRight:I
 
 
 # direct methods
@@ -2166,6 +2166,56 @@
     .line 3487
     :cond_0
     return-void
+.end method
+
+.method private isOutOfTouchRange(Landroid/view/MotionEvent;)Z
+    .locals 3
+    .parameter "ev"
+    .annotation build Landroid/annotation/MiuiHook;
+        value = .enum Landroid/annotation/MiuiHook$MiuiHookType;->NEW_METHOD:Landroid/annotation/MiuiHook$MiuiHookType;
+    .end annotation
+
+    .prologue
+    invoke-virtual {p1}, Landroid/view/MotionEvent;->getX()F
+
+    move-result v0
+
+    iget v1, p0, Landroid/widget/AbsListView;->mTouchPaddingLeft:I
+
+    int-to-float v1, v1
+
+    cmpg-float v0, v0, v1
+
+    if-ltz v0, :cond_0
+
+    invoke-virtual {p1}, Landroid/view/MotionEvent;->getX()F
+
+    move-result v0
+
+    invoke-virtual {p0}, Landroid/widget/AbsListView;->getWidth()I
+
+    move-result v1
+
+    iget v2, p0, Landroid/widget/AbsListView;->mTouchPaddingRight:I
+
+    sub-int/2addr v1, v2
+
+    int-to-float v1, v1
+
+    cmpl-float v0, v0, v1
+
+    if-lez v0, :cond_1
+
+    :cond_0
+    const/4 v0, 0x1
+
+    :goto_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    goto :goto_0
 .end method
 
 .method private onSecondaryPointerUp(Landroid/view/MotionEvent;)V
@@ -8749,7 +8799,6 @@
     .parameter "ev"
 
     .prologue
-
     invoke-direct/range {p0 .. p1}, Landroid/widget/AbsListView;->isOutOfTouchRange(Landroid/view/MotionEvent;)Z
 
     move-result v26
@@ -14067,6 +14116,22 @@
     return-void
 .end method
 
+.method public setTouchPadding(II)V
+    .locals 0
+    .parameter "paddingLeft"
+    .parameter "paddingRight"
+    .annotation build Landroid/annotation/MiuiHook;
+        value = .enum Landroid/annotation/MiuiHook$MiuiHookType;->NEW_METHOD:Landroid/annotation/MiuiHook$MiuiHookType;
+    .end annotation
+
+    .prologue
+    iput p1, p0, Landroid/widget/AbsListView;->mTouchPaddingLeft:I
+
+    iput p2, p0, Landroid/widget/AbsListView;->mTouchPaddingRight:I
+
+    return-void
+.end method
+
 .method public setTranscriptMode(I)V
     .locals 0
     .parameter "mode"
@@ -15920,72 +15985,6 @@
     move-result v0
 
     if-eqz v0, :cond_1
-
-    :cond_0
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_1
-    const/4 v0, 0x0
-
-    goto :goto_0
-.end method
-
-.method public setTouchPadding(II)V
-    .locals 0
-    .parameter "paddingLeft"
-    .parameter "paddingRight"
-    .annotation build Landroid/annotation/MiuiHook;
-        value = .enum Landroid/annotation/MiuiHook$MiuiHookType;->NEW_METHOD:Landroid/annotation/MiuiHook$MiuiHookType;
-    .end annotation
-
-    .prologue
-    iput p1, p0, Landroid/widget/AbsListView;->mTouchPaddingLeft:I
-
-    iput p2, p0, Landroid/widget/AbsListView;->mTouchPaddingRight:I
-
-    return-void
-.end method
-
-.method private isOutOfTouchRange(Landroid/view/MotionEvent;)Z
-    .locals 3
-    .parameter "ev"
-    .annotation build Landroid/annotation/MiuiHook;
-        value = .enum Landroid/annotation/MiuiHook$MiuiHookType;->NEW_METHOD:Landroid/annotation/MiuiHook$MiuiHookType;
-    .end annotation
-
-    .prologue
-    invoke-virtual {p1}, Landroid/view/MotionEvent;->getX()F
-
-    move-result v0
-
-    iget v1, p0, Landroid/widget/AbsListView;->mTouchPaddingLeft:I
-
-    int-to-float v1, v1
-
-    cmpg-float v0, v0, v1
-
-    if-ltz v0, :cond_0
-
-    invoke-virtual {p1}, Landroid/view/MotionEvent;->getX()F
-
-    move-result v0
-
-    invoke-virtual {p0}, Landroid/widget/AbsListView;->getWidth()I
-
-    move-result v1
-
-    iget v2, p0, Landroid/widget/AbsListView;->mTouchPaddingRight:I
-
-    sub-int/2addr v1, v2
-
-    int-to-float v1, v1
-
-    cmpl-float v0, v0, v1
-
-    if-lez v0, :cond_1
 
     :cond_0
     const/4 v0, 0x1

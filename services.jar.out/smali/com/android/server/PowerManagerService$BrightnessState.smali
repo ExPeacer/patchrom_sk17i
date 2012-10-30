@@ -351,8 +351,10 @@
     if-ne v7, v8, :cond_4
 
     :goto_2
+    const/16 v3, 0x10
+
     #calls: Lcom/android/server/PowerManagerService;->nativeStartSurfaceFlingerAnimation(I)V
-    invoke-static {v6, v4}, Lcom/android/server/PowerManagerService;->access$4800(Lcom/android/server/PowerManagerService;I)V
+    invoke-static {v6, v3}, Lcom/android/server/PowerManagerService;->access$9000(Lcom/android/server/PowerManagerService;I)V
 
     .line 2238
     iget-object v4, p0, Lcom/android/server/PowerManagerService$BrightnessState;->this$0:Lcom/android/server/PowerManagerService;
