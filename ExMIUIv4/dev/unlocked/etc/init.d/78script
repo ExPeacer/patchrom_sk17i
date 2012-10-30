@@ -1,0 +1,59 @@
+#!/system/bin/sh
+
+busybox mount -o rw,remount /system;
+
+# Remove logger
+rm /dev/log/main
+
+# montagem do sistema
+busybox mount -o remount,noatime,barrier=0,nobh /system
+busybox mount -o remount,noatime,barrier=0,nobh /data
+busybox mount -o remount,noatime,barrier=0,nobh /cache
+
+# OOM ADJ APPS (somente se usar Superuser.apk Miui/Kernel Mesa)
+echo "12" > /proc/`pgrep miui`/oom_adj; renice -20 `pgrep miui`
+
+# ADJ/MINFREES
+echo 0,4,7,9,11,13 > /sys/module/lowmemorykiller/parameters/adj;
+# 0,1,2,4,9,15 stock
+
+echo 3046,4172,5299,7347,8473,9692 > /sys/module/lowmemorykiller/parameters/minfree;
+
+# CPU
+echo "smartassV2" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor;
+echo "1401600" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq;
+echo "134400" > /sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq;
+
+# Sysctl.conf
+sysctl -p
+
+# Zipalign
+sh /system/xbin/zipalign78.sh
+
+# Limpeza
+rm /cache/*.apk
+rm /cache/*.tmp
+rm /data/dalvik-cache/*.apk
+rm /data/dalvik-cache/*.tmp
+rm /data/local/*.apk
+rm /data/local/*.tmp
+rm /data/tombstones/*
+
+# I/O scheduler (Use DEADLINE or SIO)
+echo "deadline" > /sys/block/mmcblk0/queue/scheduler;
+echo "0" > /sys/block/mmcblk0/queue/iostats;
+
+# rotate
+LOOP=`ls -d /sys/block/loop*`;
+MMC=`ls -d /sys/block/mmc*`;
+MTD=`ls -d /sys/block/mtd*`;
+RAM=`ls -d /sys/block/ram*`;
+for j in $LOOP $MMC $MTD $RAM
+do
+echo "0" > $j/queue/rotational;
+done
+
+# read_ahead
+echo 256 > /sys/devices/virtual/bdi/179:0/read_ahead_kb;
+
+# Thanks Gustavo RD78! :P

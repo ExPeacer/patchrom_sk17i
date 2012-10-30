@@ -1,0 +1,42 @@
+#!/system/bin/sh
+
+busybox mount -o rw,remount /system;
+
+# Remove logger
+rm /dev/log/main
+
+# ADJ/MINFREES
+echo 0,4,7,9,11,13 > /sys/module/lowmemorykiller/parameters/adj;
+# 0,1,2,4,9,15 stock
+
+echo 3046,4172,5299,7347,8473,9692 > /sys/module/lowmemorykiller/parameters/minfree;
+
+# Sysctl.conf
+sysctl -p
+
+# Zipalign
+sh /system/xbin/zipalign78.sh
+
+# Limpeza
+rm /cache/*.apk
+rm /cache/*.tmp
+rm /data/dalvik-cache/*.apk
+rm /data/dalvik-cache/*.tmp
+rm /data/local/*.apk
+rm /data/local/*.tmp
+rm /data/tombstones/*
+
+# rotate
+LOOP=`ls -d /sys/block/loop*`;
+MMC=`ls -d /sys/block/mmc*`;
+MTD=`ls -d /sys/block/mtd*`;
+RAM=`ls -d /sys/block/ram*`;
+for j in $LOOP $MMC $MTD $RAM
+do
+echo "0" > $j/queue/rotational;
+done
+
+# read_ahead
+echo 256 > /sys/devices/virtual/bdi/179:0/read_ahead_kb;
+
+# Thanks Gustavo RD78! :P
