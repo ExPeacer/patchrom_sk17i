@@ -43,13 +43,13 @@
 
     const/4 v1, 0x0
 
-    const-string v2, "Normal"
+    const-string v2, "Normal reboot"
 
     aput-object v2, v0, v1
 
     const/4 v1, 0x1
 
-    const-string v2, "Quick"
+    const-string v2, "Hot reboot"
 
     aput-object v2, v0, v1
 
@@ -110,7 +110,7 @@
 
     .line 438
     .local v0, v:Landroid/view/View;
-    const v1, 0x60b0030
+    const v1, 0x60b0041
 
     invoke-virtual {v0, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -121,7 +121,7 @@
     iput-object v1, p0, Lcom/android/internal/policy/impl/MiuiGlobalActions$SinglePressAction;->mIconView:Landroid/widget/ImageView;
 
     .line 439
-    const v1, 0x60b0031
+    const v1, 0x60b0042
 
     invoke-virtual {v0, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
@@ -132,7 +132,7 @@
     iput-object v1, p0, Lcom/android/internal/policy/impl/MiuiGlobalActions$SinglePressAction;->mTextview:Landroid/widget/TextView;
 
     .line 441
-    const v1, 0x60b0032
+    const v1, 0x60b0043
 
     invoke-virtual {v0, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 

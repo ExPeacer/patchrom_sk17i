@@ -11814,6 +11814,12 @@
 
     move-result-object v3
 
+    const v4, 0x105000c
+
+    invoke-virtual {v3, v4}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
+
+    move-result v4
+
     iget-object v2, p0, Lcom/android/internal/policy/impl/PhoneWindowManager;->mContext:Landroid/content/Context;
 
     invoke-virtual {v2}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
@@ -11821,8 +11827,6 @@
     move-result-object v2
 
     const-string v3, "navigation_bar_height"
-
-    const v4, 0x30
 
     invoke-static {v2, v3, v4}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
 
@@ -11845,6 +11849,18 @@
     const v4, 0x105000d
 
     invoke-virtual {v3, v4}, Landroid/content/res/Resources;->getDimensionPixelSize(I)I
+
+    move-result v5
+
+    iget-object v2, p0, Lcom/android/internal/policy/impl/PhoneWindowManager;->mContext:Landroid/content/Context;
+
+    invoke-virtual {v2}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
+
+    move-result-object v2
+
+    const-string v3, "navigation_bar_height_landscape"
+
+    invoke-static {v2, v3, v5}, Landroid/provider/Settings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
 
     move-result v5
 
@@ -11954,7 +11970,7 @@
 
     iput-boolean v4, p0, Lcom/android/internal/policy/impl/PhoneWindowManager;->mHasNavigationBar:Z
 
-    goto :goto_4
+    goto/16 :goto_4
 
     :cond_9
     move v3, v5

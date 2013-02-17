@@ -135,29 +135,35 @@
 
     move-result-object v0
 
-    const/4 v1, 0x4
+    const v1, 0x5
 
     new-array v1, v1, [Ljava/lang/String;
 
-    const/4 v2, 0x0
+    const v2, 0x0
+
+    const-string v3, "busybox"
+
+    aput-object v3, v1, v2
+
+    const v2, 0x1
 
     const-string v3, "pkill"
 
     aput-object v3, v1, v2
 
-    const/4 v2, 0x1
+    const v2, 0x2
 
     const-string v3, "-TERM"
 
     aput-object v3, v1, v2
 
-    const/4 v2, 0x2
+    const v2, 0x3
 
     const-string v3, "-f"
 
     aput-object v3, v1, v2
 
-    const/4 v2, 0x3
+    const v2, 0x4
 
     const-string v3, "system_server"
 
